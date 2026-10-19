@@ -1,0 +1,16 @@
+{
+  "recorded_utc": "2026-10-17T08:11:37.746568+00:00",
+  "stage": "before_gate_evaluation",
+  "prior_design_exposure": true,
+  "final_test_open": false,
+  "sha256": {
+    "protocols/20261017_group_gate_v1/PROTOCOL.md": "f5dee9743e585af54fa54da2daf27dde6cb450ba22b395dd8d90635a065f8578",
+    "scripts/group_gate.py": "2f9431d9e8cac2fe7bc3fcd8274f7dc0935f0c972f741aae885dceb2cf2a32d9",
+    "scripts/evaluate_group_gate.py": "2e6dd4945ce0a8482c613da4f3b09923e77668544d7a1b583df42a2abde71789",
+    "scripts/audit_group_gate.py": "2b98f3fdd274bbca34ffd91d4ac8cfd57d7c926f996cb678a39ae55bffa10f93",
+    "tests/test_group_gate.py": "8ab6ef2ec9f0e14c3dbbc1de81ab6edca5cd0f5b39e7da99d4b4464d873b6d92",
+    "results/oracle_diagnostics_20261017T075644Z/observations.csv": "80230f413385a119d3edbf5ff1027c8d86ef71f12e22616af7b97a60a6047944",
+    "results/oracle_diagnostics_20261017T075644Z/provenance.json": "680d262be3344664a945f2eef47f9101de09e214198a406269135d43fb12ca33",
+    "results/oracle_diagnostics_20261017T075644Z/analysis/per_source_oracle_auc.csv": "6af96aed28536da6e7e3d5426003386df503b60fd6d56369bc03c2bb688e06b2"
+  }
+}

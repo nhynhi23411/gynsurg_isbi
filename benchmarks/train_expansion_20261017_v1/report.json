@@ -1,0 +1,32 @@
+{
+  "complete": true,
+  "exploratory": true,
+  "independent_validation": false,
+  "clips": 170,
+  "new_inference_clips": 161,
+  "reused_clips": 9,
+  "source_groups": 9,
+  "final_test_open": false,
+  "mean_raw_dice_auc": 0.8932357242150039,
+  "mean_baseline_dice_auc": 0.8034675333481449,
+  "raw_minus_budget_zero": {
+    "delta": 0.08976819086685908,
+    "ci95": [
+      0.07929040206590332,
+      0.09994814405782171
+    ],
+    "n_groups": 9
+  },
+  "exclude_prior_representatives_sensitivity": {
+    "delta": 0.09039823402755648,
+    "ci95": [
+      0.07793543002346452,
+      0.10356528658991182
+    ],
+    "n_groups": 9
+  },
+  "positive_sources": 9,
+  "default_policy": "uncertainty_raw",
+  "efficacy_of_proposed_scheduler": false,
+  "freeze_sha256": "fdd9ed06cba88d66c4bbeed929bbb7292479b0ecb3f12d21dd15139a2e4bc2fa"
+}

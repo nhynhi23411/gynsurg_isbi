@@ -1,0 +1,10 @@
+{
+  "recorded_utc": "2026-10-19T13:12:53.272817+00:00",
+  "scope": "Secondary present-reference sensitivity from original PLAN_RULES and allowed expansion protocol; no new model calls, policy changes, primary endpoint replacement or outcome-based threshold choice",
+  "aggregation": "present frames per head then equal available heads per clip then equal clips per source then source bootstrap",
+  "sha256": {
+    "scripts/rescore_train_expansion_present_only.py": "7248ca075c5aa1f0c85c6dad1a7f64da87b35451fe0dd012db561ddf5b9844c2",
+    "tests/test_present_only_expansion.py": "8a2dd113c1ba0155eb1aec6be6c17b3b7d16a738ea1832c682056e6e269d9766"
+  },
+  "final_test_open": false
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "run_id": "uncertainty_raw",
+    "config": "configs/reliability_scaled_v1/uncertainty_raw.json"
+  },
+  {
+    "run_id": "uncertainty_fallback",
+    "config": "configs/reliability_scaled_v1/uncertainty_fallback.json"
+  },
+  {
+    "run_id": "error_raw",
+    "config": "configs/reliability_scaled_v1/error_raw.json"
+  },
+  {
+    "run_id": "scaled_raw",
+    "config": "configs/reliability_scaled_v1/scaled_raw.json"
+  },
+  {
+    "run_id": "scaled_fallback",
+    "config": "configs/reliability_scaled_v1/scaled_fallback.json"
+  },
+  {
+    "run_id": "legacy_full_raw",
+    "config": "configs/reliability_scaled_v1/legacy_full_raw.json"
+  }
+]

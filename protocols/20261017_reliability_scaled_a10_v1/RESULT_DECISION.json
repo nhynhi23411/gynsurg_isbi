@@ -1,0 +1,14 @@
+{
+  "date_local": "2026-10-17",
+  "engineering_run": "reliability_scaled_a10_engineering_20261017T030831Z",
+  "development_run": "reliability_scaled_a10_development_20261017T031408Z",
+  "accepted_engineering_case_runs": 12,
+  "accepted_development_case_runs": 54,
+  "primary_development_delta": -0.060168079755452436,
+  "ci95_exploratory": [-0.1736434561979904, 0.035377162165520164],
+  "decision": "Do not promote confidence fallback as default; preserve results and use uncertainty/raw as comparison baseline",
+  "reason": "Confidently wrong framewise predictions can suppress beneficial SAM corrections; large losses in 038/138 outweigh selected-case improvements",
+  "parameters_retuned": false,
+  "final_test_authorized": false,
+  "scope": "Exploratory computational decision, not a clinical efficacy claim"
+}

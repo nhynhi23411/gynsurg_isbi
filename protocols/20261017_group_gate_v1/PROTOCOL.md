@@ -1,0 +1,21 @@
+# Grouped gate development protocol v1
+
+Recorded after inspecting oracle diagnostics and before running gate selection. User authorized continuing code and development. This is exploratory reuse of nine observed training sources; nested cross-validation does not erase prior design exposure. No independent validation, GPU inference, query-policy change, new annotation, or final-test access in this step.
+
+## Method and fixed candidates
+
+Use only saved uncertainty_raw trajectories and observable features from results/oracle_diagnostics_20261017T075644Z/observations.csv. A hard output gate keeps SAM when the structure has been prompted AND nearest same-structure query distance <= d AND SAM ROI entropy <= h; otherwise use the frozen baseline. Unprompted structures and count zero retain raw output (already equal to baseline). No gold, gain, reference presence, structure ID, source ID or budget enters gate inference. No probability blending or feedback into SAM/query selection. This tests an output-only gate on the fixed raw trajectory, not a new closed-loop scheduling method.
+
+Candidates: raw (always keep raw); distance-only d in [0.5,1,2,3,5] seconds with h=1; distance+entropy same distances and h in [0.05,0.1,0.2,0.4]. Values are fixed engineering grid choices, not estimated quantiles. Tie order: raw first, then distance-only increasing d, then combined increasing d then h. Entropy already normalized to [0,1]. Missing/nonfinite distance for a prompted structure fails closed with an input error, not an outcome-dependent fallback.
+
+## Grouping and nested selection
+
+Exactly nine verified sources, one representative clip each: 001,038,059,086,105,116,138,146,160. Keep all frames, structures and budget states of a source together. Outer leave-one-source-out creates nine held-out predictions. For each outer fold, exclude its source before any candidate evaluation. Inner leave-one-source-out over the other eight sources selects candidate with greatest mean normalized macro Dice AUC; each inner fold has seven fitting sources and one validation source. This grid has no fitted parameters, so inner training data only establishes exclusion/provenance and thresholds are fixed. Do not call a redundant parameter-free grid search model training. AUC ties within 1e-12 use fixed candidate order. Record every membership and per-candidate inner score. Do not choose an outer candidate from outer outcomes. Final all-development candidate may be chosen by the same leave-one-source-out mean, but it is a proposal only, never evaluated as independent.
+
+## Outcomes and decisions
+
+Use fixed scoring frames [74,99,124], structures [0,1], budgets [0,1,2,5], actual densities [0,.8,1.6,4]. Compute Dice macro structure then frame then clip/source; normalized trapezoidal AUC weights [.1,.2,.4,.3]. Paired contrast: nested OOF gate minus raw. Descriptive source bootstrap 2000 resamples, seed20261017; no frame-level p-values. Report all nine differences, selected candidates/frequencies, kept/fallback counts, descriptive CI, and a predeclared sensitivity excluding clip160. Do not exclude failures or empty references from the primary endpoint. Minimum development signal for a later independently evaluated freeze: lower descriptive CI >0, at least six of nine positive source deltas (>1e-12), and mean delta excluding160 >0. Passing is not efficacy evidence or permission to open final test; failing means keep raw default and report a negative finding. No retry grid or change cutoff based on this run.
+
+## Audit and delivery
+
+Freeze protocol, gate helper, evaluator, tests and input/provenance SHA256 before execution. Save per-row OOF decisions, per-source AUC, all fold scores/memberships, selected all-development proposal, JSON decision and Vietnamese MD report. Unit tests must check prediction-only API, group exclusion and outer-outcome invariance, macro AUC and deterministic ties. Verify input grid, raw AUC reproduction, all hashed artifacts and final-test lock. All results here remain development-only because feature/grid design has seen these sources. A subsequent untouched validation stage requires a separate protocol and exposure review; prior three validation sources were previously used for other policies, so they cannot be described as pristine overall.

@@ -1,0 +1,20 @@
+{
+  "alpha": [
+    0,
+    0.5,
+    1,
+    2
+  ],
+  "beta": [
+    0,
+    0.25,
+    0.5
+  ],
+  "sigma": 0.03,
+  "tau_s": 2,
+  "cohort": "all nine fixed official-train feasibility sources, one clip each",
+  "criterion": "maximum mean procedure normalized Dice AUC; ties smaller alpha then smaller beta",
+  "report_global_best_and_best_both_nonzero": true,
+  "final_test_access": false,
+  "source": "PLAN_RULES.md validation grid; instantiated after default feasibility, before this grid execution"
+}

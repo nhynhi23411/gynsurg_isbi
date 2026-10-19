@@ -1,0 +1,8 @@
+{
+  "directory": "data\\manifests\\sequence_review_v5_grouped",
+  "grouping_verified": true,
+  "clinical_scope_reviewed": false,
+  "human_annotation_complete": false,
+  "grouping_evidence_sha256": "0d9d062d3a762ae2ab04b9563a35580c9ba15f167c53818e02ceabc64f9b4b0d",
+  "updated_at_utc": "2026-10-16T14:36:24.568944+00:00"
+}

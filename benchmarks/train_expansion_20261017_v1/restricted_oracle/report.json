@@ -1,0 +1,29 @@
+{
+  "posthoc_diagnostic": true,
+  "attainable_method": false,
+  "global_upper_bound": false,
+  "binary_choice_between_existing_outputs_only": true,
+  "clips": 170,
+  "source_groups": 9,
+  "independent_validation": false,
+  "model_rerun": false,
+  "gate_trained": false,
+  "query_trajectory_unchanged": true,
+  "primary_unchanged": true,
+  "mean_raw_auc": 0.8932357242150039,
+  "mean_baseline_auc": 0.8034675333481449,
+  "mean_restricted_oracle_auc": 0.9137422152630135,
+  "oracle_minus_raw_descriptive": {
+    "delta": 0.020506491048009685,
+    "ci95": [
+      0.009824043925500597,
+      0.033147317582040356
+    ],
+    "n_groups": 9
+  },
+  "largest_contribution_clip": "165",
+  "largest_clip_share": 0.13137119129334818,
+  "final_test_open": false,
+  "source_sha256": "55222db3e981bf5e2fd203134e4f13b37608d3c3cb9ab1f828f670189604c1df",
+  "interpretation": "Gold chooses per scoring frame/structure between frozen baseline and raw SAM on the fixed charged trajectory. Positive headroom is guaranteed by max construction and is not evidence of learnability or efficacy."
+}

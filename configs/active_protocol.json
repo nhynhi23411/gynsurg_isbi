@@ -1,0 +1,12 @@
+{
+  "protocol_id": "20261016_official_sparse_v1",
+  "protocol": "protocols/20261016_official_sparse_v1/PROTOCOL.md",
+  "metadata_directory": "data/manifests/sequence_official_sparse_v1",
+  "mapping_master": "data/manifests/procedure_mapping_verified_v5.csv",
+  "experiment_registry": "configs/official_sparse_v1/experiment_registry.json",
+  "reference_mode": "official_release_computational",
+  "original_plan_preserved": true,
+  "final_test_authorized": false,
+  "legacy_grouped_metadata": "data/manifests/sequence_review_v5_grouped",
+  "note": "Legacy grouped metadata belongs to the 250-frame tail protocol; use the explicit sparse metadata for current development."
+}

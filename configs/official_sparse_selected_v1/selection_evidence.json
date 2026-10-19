@@ -1,0 +1,31 @@
+{
+  "scope": "Development selection, not confirmatory inference",
+  "source_run": "official_sparse_tuning_20261016T151226Z",
+  "baseline_run": "official_sparse_feasibility_20261016T144620Z",
+  "best_overall": {
+    "run_id": "full_alpha0_beta0",
+    "alpha": 0,
+    "beta": 0,
+    "procedures": 9,
+    "mean_dice_auc": 0.9160359471212141,
+    "delta_vs_uncertainty": -0.0005438781092137838,
+    "ci95_low": -0.002350228195228748,
+    "ci95_high": 0.0005430915811574192
+  },
+  "best_both_nonzero": {
+    "run_id": "full_alpha0p5_beta0p25",
+    "alpha": 0.5,
+    "beta": 0.25,
+    "procedures": 9,
+    "mean_dice_auc": 0.9153477008401024,
+    "delta_vs_uncertainty": -0.0012321243903254337,
+    "ci95_low": -0.005160784539876706,
+    "ci95_high": 0.00261496189342585
+  },
+  "interaction_supported_by_global_best": false,
+  "grid_selection_adjusted_ci": false,
+  "global_best_development_delta_positive": false,
+  "proceed_gate_met_by_development": false,
+  "final_test_unlocked": false,
+  "note": "Selected-grid CIs are descriptive, not selection-adjusted. Validate fixed selected recipes on separate official-val sources; never tune on final test."
+}

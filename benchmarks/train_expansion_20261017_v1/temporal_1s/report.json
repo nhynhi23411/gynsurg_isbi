@@ -1,0 +1,27 @@
+{
+  "secondary": true,
+  "primary_endpoint_unchanged": true,
+  "clips": 170,
+  "source_groups": 9,
+  "common_scoring_frames": [
+    99,
+    124
+  ],
+  "coverage": 0.6666666666666666,
+  "scored_rows": 2720,
+  "new_model_calls": 0,
+  "query_trajectories_unchanged": true,
+  "baseline_and_every_budget_use_same_pool": true,
+  "mean_raw_auc": 0.8875094238943473,
+  "mean_baseline_auc": 0.7981158116115127,
+  "raw_minus_baseline": {
+    "delta": 0.08939361228283478,
+    "ci95": [
+      0.07729615370424668,
+      0.101754525184552
+    ],
+    "n_groups": 9
+  },
+  "source_sha256": "529d7afc74591ccea38ba9e2e61e6e31f6b4d88d978549da514f18d374277df0",
+  "final_test_open": false
+}

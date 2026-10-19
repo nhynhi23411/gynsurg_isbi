@@ -1,0 +1,9 @@
+{
+  "date_local": "2026-10-17",
+  "authorization_source": "User instruction in current chat: thực hiện",
+  "scope": "Execute frozen engineering prototype on 059/086 with all six recipes; analyze and, once engineering acceptance is recorded, run the same fixed recipes on the nine authorized development sources",
+  "modal_use_authorized": true,
+  "parameters_may_be_retuned_silently": false,
+  "final_test_authorized": false,
+  "new_labels_authorized_as_gold": false
+}

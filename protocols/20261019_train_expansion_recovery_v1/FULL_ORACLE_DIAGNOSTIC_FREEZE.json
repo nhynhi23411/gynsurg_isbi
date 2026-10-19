@@ -1,0 +1,9 @@
+{
+  "recorded_utc": "2026-10-19T13:43:04.431860+00:00",
+  "scope": "Same restricted binary-output oracle definition as prior nine-clip diagnostic, expanded to all170 with clip-within-source weighting. Posthoc diagnostic only; no gate fitting, model calls, global upper bound, score-based query or primary changes.",
+  "sha256": {
+    "scripts/diagnose_full_training_oracle.py": "55222db3e981bf5e2fd203134e4f13b37608d3c3cb9ab1f828f670189604c1df",
+    "tests/test_full_training_oracle.py": "87d5551493372520cbc1e8e26828722287658fa1169068e037fd0c75d0d2da25"
+  },
+  "final_test_open": false
+}

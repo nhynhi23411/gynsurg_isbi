@@ -1,0 +1,8 @@
+{
+  "approved_for_training": false,
+  "approved_for_test": false,
+  "reviewer": "",
+  "date": "",
+  "protocol_sha256": "",
+  "note": "Repository distribution defaults. Supply local reviewed authorization before inference. Historical experiment records do not authorize a new operator."
+}

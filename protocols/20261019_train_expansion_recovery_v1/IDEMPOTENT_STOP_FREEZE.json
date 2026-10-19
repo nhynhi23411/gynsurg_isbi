@@ -1,0 +1,8 @@
+{
+  "scope": "local idempotent app-stop handling only; frozen driver and worker unchanged",
+  "sha256": {
+    "scripts/resume_train_expansion_recovery.py": "1fb58e8eddde3d7577988ac4ed2703b96734098d0db18aaf474ebf2ccd5139a5",
+    "tests/test_recovery_idempotent_stop.py": "34fcc074f36d7c46747d0fb9dfc625ba98b82be92955241faeef9282e2012e1b",
+    "protocols/20261019_train_expansion_recovery_v1/IDEMPOTENT_STOP_ADDENDUM.md": "88aabd357e293ab445d5e1f0115885c9792f0fff4731809e250704d281990bd6"
+  }
+}

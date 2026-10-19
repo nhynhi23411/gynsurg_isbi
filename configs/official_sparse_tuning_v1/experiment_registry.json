@@ -1,0 +1,50 @@
+[
+  {
+    "run_id": "full_alpha0_beta0",
+    "config": "configs/official_sparse_tuning_v1/full_alpha0_beta0.json"
+  },
+  {
+    "run_id": "full_alpha0_beta0p25",
+    "config": "configs/official_sparse_tuning_v1/full_alpha0_beta0p25.json"
+  },
+  {
+    "run_id": "full_alpha0_beta0p5",
+    "config": "configs/official_sparse_tuning_v1/full_alpha0_beta0p5.json"
+  },
+  {
+    "run_id": "full_alpha0p5_beta0",
+    "config": "configs/official_sparse_tuning_v1/full_alpha0p5_beta0.json"
+  },
+  {
+    "run_id": "full_alpha0p5_beta0p25",
+    "config": "configs/official_sparse_tuning_v1/full_alpha0p5_beta0p25.json"
+  },
+  {
+    "run_id": "full_alpha0p5_beta0p5",
+    "config": "configs/official_sparse_tuning_v1/full_alpha0p5_beta0p5.json"
+  },
+  {
+    "run_id": "full_alpha1_beta0",
+    "config": "configs/official_sparse_tuning_v1/full_alpha1_beta0.json"
+  },
+  {
+    "run_id": "full_alpha1_beta0p25",
+    "config": "configs/official_sparse_tuning_v1/full_alpha1_beta0p25.json"
+  },
+  {
+    "run_id": "full_alpha1_beta0p5",
+    "config": "configs/official_sparse_tuning_v1/full_alpha1_beta0p5.json"
+  },
+  {
+    "run_id": "full_alpha2_beta0",
+    "config": "configs/official_sparse_tuning_v1/full_alpha2_beta0.json"
+  },
+  {
+    "run_id": "full_alpha2_beta0p25",
+    "config": "configs/official_sparse_tuning_v1/full_alpha2_beta0p25.json"
+  },
+  {
+    "run_id": "full_alpha2_beta0p5",
+    "config": "configs/official_sparse_tuning_v1/full_alpha2_beta0p5.json"
+  }
+]

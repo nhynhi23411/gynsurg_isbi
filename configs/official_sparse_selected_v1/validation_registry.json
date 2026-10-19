@@ -1,0 +1,14 @@
+[
+  {
+    "run_id": "best_development_seed20261016",
+    "config": "configs/official_sparse_selected_v1/best_development_seed20261016.json"
+  },
+  {
+    "run_id": "interaction_nonzero_seed20261016",
+    "config": "configs/official_sparse_selected_v1/interaction_nonzero_seed20261016.json"
+  },
+  {
+    "run_id": "uncertainty_seed20261016",
+    "config": "configs/official_sparse_selected_v1/uncertainty_seed20261016.json"
+  }
+]

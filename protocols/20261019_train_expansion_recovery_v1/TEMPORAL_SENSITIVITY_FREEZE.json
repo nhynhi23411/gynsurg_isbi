@@ -1,0 +1,9 @@
+{
+  "recorded_utc": "2026-10-19T13:25:12.144446+00:00",
+  "secondary": "Common1s exclusion sensitivity from original plan; no model or query rerun; same pool for zero-correction and all budgets; primary unchanged",
+  "sha256": {
+    "scripts/rescore_train_expansion_temporal.py": "529d7afc74591ccea38ba9e2e61e6e31f6b4d88d978549da514f18d374277df0",
+    "tests/test_temporal_expansion.py": "806184af7524516393f75c392d3a16bf106354c07391819c97de1a3449e9ace2"
+  },
+  "final_test_open": false
+}

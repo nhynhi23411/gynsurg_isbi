@@ -1,0 +1,16 @@
+{
+  "recorded_utc": "2026-10-19T12:56:03.795793+00:00",
+  "driver_sha256": "558741b8b45c97cef8c5c2126d5061e8a9e0bd6693921acdbaecdec2d3f2ce98",
+  "test_sha256": "3e3bd9cd552163e316ed8b214cbf195f691d18259eeabdbe3a2ca1a7d9050194",
+  "worker_freeze_sha256": "b3b3a16e0912fc74f060ed8ef1d5c0203c25c1b92e1e0a2404fd0afe292f0907",
+  "gpu_worker_changed": false,
+  "scientific_inputs_changed": false,
+  "reason": "Windows Store Python3.11 redirects child user-site; set original PYTHONUSERBASE only for the original analysis interpreter",
+  "environment": {
+    "python": "3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)]",
+    "site": "C:/Users/pc/AppData/Roaming/Python\\Python312\\site-packages",
+    "numpy": "2.3.2",
+    "pandas": "2.2.3",
+    "scipy": "1.15.2"
+  }
+}

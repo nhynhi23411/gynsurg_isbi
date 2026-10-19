@@ -1,0 +1,5 @@
+# Authorized observational debug replay
+
+User approved replay/debug of development clips 059 and 086, full and uncertainty, using the existing inputs/configs/checkpoints. Do not change parameters, engine or correction budgets. Save six annotated-frame probability snapshots after every correction, scores of every eligible candidate before selection, per-state released-reference metrics and before/after scoring-frame panels. Debug receives detached read-only copies; it cannot alter selection or engine state. Gold is used only for retrospective evaluation/rendering and the existing charged correction loader.
+
+No final-test access, new labels or hyperparameter search. Compare trajectories and scored metrics against original runs; disclose hardware/precision numerical differences. Debug wall time includes observation/storage overhead and is not a policy speed benchmark. Sparse masks permit ground-truth Dice only on the six annotated snapshots, not every raw frame. Large probability arrays stay on private Modal; small evidence artifacts downloaded locally.

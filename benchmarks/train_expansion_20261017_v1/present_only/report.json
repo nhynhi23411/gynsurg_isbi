@@ -1,0 +1,24 @@
+{
+  "secondary": true,
+  "primary_endpoint_unchanged": true,
+  "new_model_calls": 0,
+  "query_trajectories_unchanged": true,
+  "clips_with_present_reference": 170,
+  "clips_without_any_present_reference": [],
+  "source_groups": 9,
+  "present_frame_structure_cells": 853,
+  "total_unique_frame_structure_cells": 1020,
+  "aggregation": "present frames within head, heads within clip, clips within source, sources equal",
+  "mean_raw_auc": 0.8865878611348028,
+  "mean_baseline_auc": 0.8106638582289531,
+  "raw_minus_baseline": {
+    "delta": 0.07592400290584961,
+    "ci95": [
+      0.06146088000078273,
+      0.08950756473533267
+    ],
+    "n_groups": 9
+  },
+  "source_sha256": "7248ca075c5aa1f0c85c6dad1a7f64da87b35451fe0dd012db561ddf5b9844c2",
+  "final_test_open": false
+}

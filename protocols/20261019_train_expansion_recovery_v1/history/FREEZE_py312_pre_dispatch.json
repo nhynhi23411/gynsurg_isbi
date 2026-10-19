@@ -1,0 +1,10 @@
+{
+  "recorded_utc": "2026-10-19T12:48:02.051814+00:00",
+  "before_recovery_dispatch": true,
+  "scientific_freeze_sha256": "fdd9ed06cba88d66c4bbeed929bbb7292479b0ecb3f12d21dd15139a2e4bc2fa",
+  "launcher_sha256": "e516c0578069acee09e0ce2ee4c0a0064df9839ed34b3481cfc5a71078888207",
+  "protocol_sha256": "88e84ebdf131e11c4606ebfb9330fa34e8422303441ccd79e1cdd0ef58630679",
+  "test_sha256": "bc5dbf05f65517eafdb9245a8276c4f4aa78d2400f26f5b9fab6da2ab908e793",
+  "algorithm_changed": false,
+  "final_test_open": false
+}

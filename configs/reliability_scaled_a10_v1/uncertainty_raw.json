@@ -1,0 +1,33 @@
+{
+  "seed": 20261017,
+  "policy": "uncertainty",
+  "densities": [
+    0,
+    1,
+    2,
+    4
+  ],
+  "alpha": 1.0,
+  "beta": 0.25,
+  "sigma": 0.03,
+  "tau_s": 2.0,
+  "fps": 25.0,
+  "organ_ids": [
+    0
+  ],
+  "instrument_ids": [
+    1
+  ],
+  "sam_config": "configs/sam2.1/sam2.1_hiera_t.yaml",
+  "sam_checkpoint": "materials/checkpoints/sam2.1_hiera_tiny.pt",
+  "device": "cuda",
+  "exclusion_seconds": 0,
+  "sam_postprocessing": false,
+  "sam_precision": "bfloat16",
+  "failure_threshold": null,
+  "propagation_reliability": "raw",
+  "reliability_delta": 0.25,
+  "relative_diversity": 0.25,
+  "required_gpu_name": "NVIDIA A10",
+  "prototype_protocol": "20261017_reliability_scaled_a10_v1"
+}

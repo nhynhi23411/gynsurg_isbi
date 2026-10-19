@@ -1,0 +1,1192 @@
+[
+  {
+    "clip_id": "001",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "280e0adda435a6bcc0a46e48fb1f67543fb9fda46c29946a865083cc721c9f0a"
+  },
+  {
+    "clip_id": "002",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "b111d398de4b647a3010bfc9ad6036867b2103eaf81f73f20d5dafa82d27c3ae"
+  },
+  {
+    "clip_id": "003",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "ea99911b7a00abee2f49077d193638bd1822657a164bcdbe4d28fcd86fa68e73"
+  },
+  {
+    "clip_id": "004",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "0f2e5c1646346cac1ab5f85bc33721b4cf739e3c4d9c3834c1e4c9512a9fb4d5"
+  },
+  {
+    "clip_id": "005",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "29b3618aaa9c80fcc1c77e1f2965f415cdc6c51c056c34e7912146a063c4ee44"
+  },
+  {
+    "clip_id": "006",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "f23275433dc033109a5c7520eae9398e160bd0a6eb8ed89fd27b0ec780e01210"
+  },
+  {
+    "clip_id": "007",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "0414c083df22febca06c3783757c83edf16f1f9a77ffab174455a313de0641bd"
+  },
+  {
+    "clip_id": "008",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "79e9ecbdaea920aaacae99b7a6d9e7fec512093dbe06c6bf40a1dc634cd383fd"
+  },
+  {
+    "clip_id": "009",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "5c72a63009ebabbe7419dc5f6ffd04ad66315dbbd17ad4649a01f59d6bef9b16"
+  },
+  {
+    "clip_id": "010",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "7feef116a45d42efad1eb871ddd7fbdeeb557ffdc8811dae5e46b5691aeb4f52"
+  },
+  {
+    "clip_id": "011",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "061e75a02fd76242a1d377115069754b381ed1d9dcbfb23293d828df478eba79"
+  },
+  {
+    "clip_id": "012",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1531aec32c2443a7eff74cca7e9941b24163dabcadfa009b48c1e9f89b9fb0e5"
+  },
+  {
+    "clip_id": "013",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "87d0965c0067209d2edc910602e595acd0851e928ebec1a56a1c9118f56ba40c"
+  },
+  {
+    "clip_id": "014",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "6aa21e89b8aa2a95042f919478dc3b6fa55e46b3bf3c8dae3a08afd4637bd319"
+  },
+  {
+    "clip_id": "015",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "5bf50dd5baeb37e52a6f07b0fdc21b40482407d15b11232f5efd7029ac0db572"
+  },
+  {
+    "clip_id": "016",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "3f6f823f6b30da676fa61a4cc08375cc118b59b3e85bf3b21b41a6e62fe27b82"
+  },
+  {
+    "clip_id": "017",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "619a8db12973f9a23c72b88679906124b981282413d4dabdb901e97ed0277cb0"
+  },
+  {
+    "clip_id": "018",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "77fa247ad8b7ed0cc9ec5c8993b8fcc8add3c457c8abe25c060a1fbe1b88ff09"
+  },
+  {
+    "clip_id": "019",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1dafae92739a730eb67d6e013c228656147e884f52153c87262ab9503b4875ab"
+  },
+  {
+    "clip_id": "020",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "fd49feb45c38706c9b5b83b09baa4d126bcd816191d4b6fffb6bca65a7eac101"
+  },
+  {
+    "clip_id": "021",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "27fccd024743bbd73e49bd1bd6be6f92f4e9eb0854a0f401b3e4da8966455030"
+  },
+  {
+    "clip_id": "022",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e500adb772e7532c3253bdfc835639a03dac9122a2b8dd85fef24ab579f987a0"
+  },
+  {
+    "clip_id": "023",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "d0d9b53cd1eea5df31005965af0577bc36667e9fb9f0b139b180c1e63c808de5"
+  },
+  {
+    "clip_id": "024",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8462f0f4454eba6856d743f6ac2e6030fa0cfb0b23c7c70a69a843751451f244"
+  },
+  {
+    "clip_id": "025",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "59be34dccb851a84ee09031d0b1fac29f553493fe81f165a434fd0f495564aec"
+  },
+  {
+    "clip_id": "026",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "25caa65e0124ae1c763f8f7154926d6ba05b389b5a81e2f1d94b39833625ca5a"
+  },
+  {
+    "clip_id": "027",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "4a228b0777625eb38008d02fad497d25faecbf31f57a28b432005e91c444b8e8"
+  },
+  {
+    "clip_id": "028",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "31687dd8fe9479e1e495649781e2d64a3116b2a43cd4731e9d94bf542f263286"
+  },
+  {
+    "clip_id": "029",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "9865622c4def3b7249ee3a072bd9c03928da4813f4c804fcea8ad3589e585010"
+  },
+  {
+    "clip_id": "030",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "444e7e1bc58392f612bdb03e165c4863df199fd061891ccb9c4f90d3c2488cf4"
+  },
+  {
+    "clip_id": "031",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "5191ccc9b85e8de8511276d8bf548a118510615a42e26a6f47b28aa1c3bd1f96"
+  },
+  {
+    "clip_id": "032",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "ce7fd171d91a9163b193b3d6cd5b0678013cbe0907087cc0461393a6e0f32618"
+  },
+  {
+    "clip_id": "033",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "fa75c75c1b17393e10776d311367577c6b8f8a063b7c8433eb55f11b809eaafc"
+  },
+  {
+    "clip_id": "034",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8eabe0746a797f3943a4cc987cfda75866008e015b663b746f5029902f5c6bad"
+  },
+  {
+    "clip_id": "035",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "002b787d9393198ae01d3b3c78dcbd8ec994765d9075ea4ec40b42f7aa289aba"
+  },
+  {
+    "clip_id": "036",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "062d35b63b6fb521e6398da3c929b5d219587bc14b63f8ad91337d4caa9f5d62"
+  },
+  {
+    "clip_id": "037",
+    "procedure_id": "AutoLaparo_video_01",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "59933b3544f1c462f243118bf6beab979bdda84ebd72a49ff70e978d908e6415"
+  },
+  {
+    "clip_id": "038",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "daea0373b8ce85e772ce2a2d695e28f2567a37117ed7533d190e6612464dd447"
+  },
+  {
+    "clip_id": "039",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "77a327a1a0b47f6646cafe34c307d57142a8c3ed1f27aee6363ecbb666f2de68"
+  },
+  {
+    "clip_id": "040",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "299c90be5fa0a84c683890b1c8e1ed9a1abd0b543a7abc589fba357ddd1ef4a5"
+  },
+  {
+    "clip_id": "041",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e81b09c9e678fa3ebeb00588ea259604ac12b7c7cc5cf1d8586ff1031fae41fc"
+  },
+  {
+    "clip_id": "042",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "04bf78871ad4d70638fd4ff71ff3f47d6bac2343973ac2dc535106ee31882035"
+  },
+  {
+    "clip_id": "043",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "7cd76f9fa0760494cdb34bf8196382ee8d0c024c4befa94e28a1a78ea835b701"
+  },
+  {
+    "clip_id": "044",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "deb86f34feb4dd126d729389f8cd9e4d8ee68a032a84526dd9c1fba852bc7baa"
+  },
+  {
+    "clip_id": "045",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "7870f70992f0b68b469866bb83eb9096d35d922b0e70124a978a334f8fbc4972"
+  },
+  {
+    "clip_id": "046",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e0b2ebd61857d7e0a00d368037fd1a22fe382e4f9995c0038abd1ced3ff995b7"
+  },
+  {
+    "clip_id": "047",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "73147bbd40d17105a37ccb3c2ebe9578180026252ba001b72814c333b3dd9dec"
+  },
+  {
+    "clip_id": "048",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "ffe7d78578990f98c359b23fd60a1e22081b2d782eabb2079e0c5b6e7d22c588"
+  },
+  {
+    "clip_id": "049",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "c5a4612875517031c8303f54fecb25e726f400bce237afad45d817292cc31367"
+  },
+  {
+    "clip_id": "050",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "989c5d0ca4fccb18383eef3dd1e6816f112e3e5a0e5dacc722c45392dbc5cd51"
+  },
+  {
+    "clip_id": "051",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "299d070a7a10d122fadef67288815252e8101e07fb1538756a73b01a30e20782"
+  },
+  {
+    "clip_id": "052",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "07c5ec8affefef6a097625ded0e8a8ecad0cfe808c414fdb774f7f396ceca2f3"
+  },
+  {
+    "clip_id": "053",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "efac6726408d07d62a7f5e29d2cece645a9c9ea5241c427cea90bfe9cf7f5eb3"
+  },
+  {
+    "clip_id": "054",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e863c8c3ef3a083d6368673e102ccd82b88b6cb89a06fd7467f789a7a0964a9f"
+  },
+  {
+    "clip_id": "055",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "39af87a23b88a8c988db5b2cda39ae73d2870b045a602048c40abe5227df5477"
+  },
+  {
+    "clip_id": "056",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8fde872ad03ebce9941cdee45e27e3e02b31647460ff0a4f4018bd8b3a0de8a3"
+  },
+  {
+    "clip_id": "057",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e9372dc6d54853d44b3a4faea79e8ef60b9f0dec4d343ad8bfda99ac09d983bd"
+  },
+  {
+    "clip_id": "058",
+    "procedure_id": "AutoLaparo_video_02",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "0bac0ab0eba5c7c2032eb377e0873feea5f9081cd3e743f33ae1b0d2a1ecd0f8"
+  },
+  {
+    "clip_id": "059",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "da3821c46855c1181f9ea7e4d62701f571ac147be02dde6da7f1d17f397a7266"
+  },
+  {
+    "clip_id": "060",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "bcbe14c3b6fb54ea7361b3d2982ac7a81765de3480dbda5187fac501cb8fb830"
+  },
+  {
+    "clip_id": "061",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e7acab93a510d2041c13e5253b70a9ff6fd390b5cc9fc2bfbc6008130b4afebe"
+  },
+  {
+    "clip_id": "062",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "16150d9bebf6293d0bfcf921e51d1191a7873bc870b8bc0954e75d6bb8bcdf74"
+  },
+  {
+    "clip_id": "063",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1c4dba3dcedf856d18df37c2cbfb4b6fc8e70ceb91ffde4397b6c49b176be0e5"
+  },
+  {
+    "clip_id": "064",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "85b2e054f6e5545efa73f01bdcdc40a6c3bd59fd0a03773037d19bbc0199537d"
+  },
+  {
+    "clip_id": "065",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "7578676ec0bb5d25de79f75c55ed0858035fb9258152d2d382a6b7946effae4d"
+  },
+  {
+    "clip_id": "066",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8aa95b4457654278b2f0b94c4bba368340cf4cd0a03aedd86a953c02674ac13a"
+  },
+  {
+    "clip_id": "067",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "993db218c5bd15fe31e22424252ccb25e50b99e40876853b72bb772d3f9ebbc6"
+  },
+  {
+    "clip_id": "068",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e86ef3a5f50bd059959aa60e076210de4123340e5e67f21a209a8dd6fc74a275"
+  },
+  {
+    "clip_id": "069",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "85ec5d180de0bce79e75880f2574c772953b5d6b89d6eb5da3a32fad4a39f462"
+  },
+  {
+    "clip_id": "070",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1900648af7df0e0a18039b5bc5e7dc5b64e04ccc575a0856eb2cef3a1f49dbb9"
+  },
+  {
+    "clip_id": "071",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8c3105b019b0db3cf4b707e41a21cc64714f10f232687b8ceaf0339ecec1a964"
+  },
+  {
+    "clip_id": "072",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "a193e9eab94a74f8cea16c0247eb9f63bd5c91349c978787ef13d5114e84d879"
+  },
+  {
+    "clip_id": "073",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "f7aca0acf08d9bfc726e5b347b9e08c289addd97fb79fab2aabe4eecf6e5de1c"
+  },
+  {
+    "clip_id": "074",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "95cef38b2a11f91f472dd2c4e4a3c183d7157dd53b94399402d0db748ea292b9"
+  },
+  {
+    "clip_id": "075",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "2c6817b3ca609c250c6ec54851f1536087cb3ecb65b2239db1eb84fd3538c3e6"
+  },
+  {
+    "clip_id": "076",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "2059e17d131970100e06e77a7c382ee9acbf23986f8de65c92631c66cc50753e"
+  },
+  {
+    "clip_id": "077",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e7b0814dcbcb1a425e9f68071cb30affc492300273365d52ab1295560f0f3a5e"
+  },
+  {
+    "clip_id": "078",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e495794114a454930d1cc9eaa88fa6ed2f4b8baaad2131b1ba2a032b667d952c"
+  },
+  {
+    "clip_id": "079",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1bfddfa5e16d41683397238ccde5ed416f5f11a4bd9eb10ee74306034775ad24"
+  },
+  {
+    "clip_id": "080",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "488b5d355e1c512b2c37ab6b28b7cf205bccf46bdd707a578897a9a15dd50774"
+  },
+  {
+    "clip_id": "081",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "ff447beacd55f91bb34f266ef57fd50fb6e274b55232be50d7fb6fdc3ae9c3b0"
+  },
+  {
+    "clip_id": "082",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "938717b7030b3518880950ccc4346c8e3f6de69ff544ad17681a4c820c023736"
+  },
+  {
+    "clip_id": "083",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "758e3be9bba16fc422b42b611b1c85621b663415522e4f28d182f41e6e6f6ed2"
+  },
+  {
+    "clip_id": "084",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "3dd4e233df3db7027886ebc5a88c1e39c1eb80ec45150d7c3c8bd97562fc6d10"
+  },
+  {
+    "clip_id": "085",
+    "procedure_id": "AutoLaparo_video_03",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "93e53c0b1761bbc57cd850cd17750364860669d4b1da8b8f506a4f832276b790"
+  },
+  {
+    "clip_id": "086",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "78a707cafa7852ffc9afed38501248ff0fbb609568b2548eb6f929c6637a3388"
+  },
+  {
+    "clip_id": "087",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "b782cc09ac483ef22e299557f48e679297199ab9ab17fd79a22b79898710c954"
+  },
+  {
+    "clip_id": "088",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "481ce5be668e6890836adc9fe0bdf8cf1e20696c0080e2a2362e3497e6cfc316"
+  },
+  {
+    "clip_id": "089",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "0e44dc0e4446d1f572299536dbd409be8e2082d5a9b5df4e64871fe9fdea79df"
+  },
+  {
+    "clip_id": "090",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "ae662cadc42ba62083c32d193a2c1959ac7736b7ae9095abd1e7af81ad138017"
+  },
+  {
+    "clip_id": "091",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "ea862dc68e49c1635ee69cd8a9d4922285c717d4027a5966664a0beb9b3cd995"
+  },
+  {
+    "clip_id": "092",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "2f1b8fc12606c1c2d09bc9c3c2d8f5aaf7fbf6b58f75ed96989fc5416673ee0b"
+  },
+  {
+    "clip_id": "093",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8a9e5a4f6e43ea96fd81e1221f1646d327cac692a2c4740216108619e359b3ae"
+  },
+  {
+    "clip_id": "094",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1be90c365eb5b86c8617132e454915397f03bdcf04724cc551d373a559327a49"
+  },
+  {
+    "clip_id": "095",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "152673719662de0fba7b45de34f277cd2ab908e8d5eaa95550c100c7c7555c29"
+  },
+  {
+    "clip_id": "096",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "4b540973b06cf39c4a96f703478df9c298e59ea8c74b1f2e0bf48eeb6be83ce8"
+  },
+  {
+    "clip_id": "097",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "471bcd6505be8795e4f4b05f3cc0858a70d9d51c4249244bc3636ffcc99217ec"
+  },
+  {
+    "clip_id": "098",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "b2b693a81a0168bf7e3cf1ec791f2c18d5b07ca77513aece20ba39c76a79ea31"
+  },
+  {
+    "clip_id": "099",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "b57b0b16c908f6fb68304a39f286dfa9231fdd3ec25e6a9cc2158860daa8345f"
+  },
+  {
+    "clip_id": "100",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "cd6c252e6d4f02bc1ca6536fca8fb51ee36bf86d55660bc4dc90052bb4351a99"
+  },
+  {
+    "clip_id": "101",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "db7a41fe4a2db52dd4d1943f2f161708fec8be6b2468afc781542d94533477f6"
+  },
+  {
+    "clip_id": "102",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "05da020d4ceaf34b928cbd6a85884e34a64e15f4cb286bf3359e4bd4ba9fe954"
+  },
+  {
+    "clip_id": "103",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "a608a130c510c1e412558ea60bbe0b0970100a2054b5c555f2f7a33d0dc833f1"
+  },
+  {
+    "clip_id": "104",
+    "procedure_id": "AutoLaparo_video_04",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1da4284b92e530f346b1f3e8fbb3f8b43e2d05291eb33b5be377248e3f008be2"
+  },
+  {
+    "clip_id": "105",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "2728a398e0b973771d9d77200d068ecdc3b5f63e8a0b3871a302e60bec971c72"
+  },
+  {
+    "clip_id": "106",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8c91a4d693e597692ef2b19b6db6fa32d04aca363fb8f4494bb1ee1b049431f7"
+  },
+  {
+    "clip_id": "107",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e6ba97f9e597f60c9dfb85ce1c168d8dea147bead23874ccbe767b806d37cd09"
+  },
+  {
+    "clip_id": "108",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "76fd0d823132f4e38f0c81efd1011383bf369d9e4695b8bbd00bf71d52a71290"
+  },
+  {
+    "clip_id": "109",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "9107506f1a8986ecd25f432dfa47774b327045493f797cacb11b0e1a13eaedd6"
+  },
+  {
+    "clip_id": "110",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "5fe7ac4cdb0a688b449fc3d9bbfdf2c4c7b2a9b5fc8e2cee494f25e65ea024a9"
+  },
+  {
+    "clip_id": "111",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1de9f33cc7578fb306a86c626a070d7a7cf7d05b3e8dc9e8492f272951d01531"
+  },
+  {
+    "clip_id": "112",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "89f3d1da4785b38a64e165e4baf053fe258f0e9329f478b4e2c7da11ed8577a7"
+  },
+  {
+    "clip_id": "113",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8b5bc243df9fdb47fe9d08f4862059fc908390b868a55a6bf72f5cdd46c0ee41"
+  },
+  {
+    "clip_id": "114",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "90272599b8ef8e1a90beabc9aa5c4c35b64ca753027875eec4f1b3fa5ff9dacd"
+  },
+  {
+    "clip_id": "115",
+    "procedure_id": "AutoLaparo_video_05",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "190698e5ffc05c86c1455978713768b168cacb1c1fa52fa1abf64b9b07fab8d7"
+  },
+  {
+    "clip_id": "116",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "8c3872db6406ce4197b4104c3218f5876e3996c5fe30a9fa11904e7a1b0d6905"
+  },
+  {
+    "clip_id": "117",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "28fcd130343dc2bf753deb8cb249f95c2d7dbe71c14526388a761e3de5055bba"
+  },
+  {
+    "clip_id": "118",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "10cc89315da3eef94998e0c0c03fff5e0fc9d9ee4726f65ae4bd7301f6a32e2a"
+  },
+  {
+    "clip_id": "119",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "249d8dfa02c3050266e0346b84eca6d33df694c13dc88d66774fe43bef912ea5"
+  },
+  {
+    "clip_id": "120",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "6f1b9f8ad818f057d2477811691152c41e8cdd64d60f8e3aa40ff1500ced2587"
+  },
+  {
+    "clip_id": "121",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "9dd4601ba8284df605560e838f49f959e63054076c70129572c49083d87f420c"
+  },
+  {
+    "clip_id": "122",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "aba9dffbda54e11cbaf67309f9b1efc100e305864e149e6b2e2a766e4efc97f4"
+  },
+  {
+    "clip_id": "123",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "71d9a20daaa8b6ee1f9c254fecd4aa4c3a9b902428e27c9bd8fde972bfdd9be1"
+  },
+  {
+    "clip_id": "124",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "f529d93f8e8916a4ea582a040c29a35d26b52dc991dadb3233066c7578f7f127"
+  },
+  {
+    "clip_id": "125",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "bec53749c82d49b841ed1a22101d76361e92fd72aa4f1ea807b96e8b7c9365d2"
+  },
+  {
+    "clip_id": "126",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "517fda92f08862ccc9bff565e364c4fb798212d292fe0b506bd8d9fd125326d8"
+  },
+  {
+    "clip_id": "127",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "558340914a6189027607cb20e3f88b336380e69b747b4f1f70890970721d9db5"
+  },
+  {
+    "clip_id": "128",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "af368ddf997a5b7ef2aa07c07747e85058078126485dba97e57e968b50721d22"
+  },
+  {
+    "clip_id": "129",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "0c1518a9fdf5e07e50b8d79434757092aae5267dd71fb2d415a846ea1fcf3323"
+  },
+  {
+    "clip_id": "130",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "fb14d3b73f6132d7eb17a3bcf39879314a4268f541f587659f33453a5f2adb25"
+  },
+  {
+    "clip_id": "131",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "74d59ced6b5e6ccac670ecf316b92c2fad7600fed1688f4a7a108dd2fd06a4d4"
+  },
+  {
+    "clip_id": "132",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "de6e694c956a3c2783593bfa3919403f2341e6067ac6a1abdbde402af2739964"
+  },
+  {
+    "clip_id": "133",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "cd5afabec7a30a37205dedcfcc91afb35c5eb25f5be7ece1fb72403ad4b6961b"
+  },
+  {
+    "clip_id": "134",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "d3ba7f3d583aedcba3a994c9d2c6db313a783aea8145a1a3724872f58023e14f"
+  },
+  {
+    "clip_id": "135",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "6efff3ffde77c592410d91850115abd659811d61e1cb66980bc4a730eb89c6cc"
+  },
+  {
+    "clip_id": "136",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "356528e951f29d40ff8d033f4816881e9faf93b1943f0d2341f5cb13731f04ca"
+  },
+  {
+    "clip_id": "137",
+    "procedure_id": "AutoLaparo_video_06",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "6942333925b28cc7300bfceb1911c000199ab2573f441943fc71b765b9c15ac9"
+  },
+  {
+    "clip_id": "138",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "0a93e58b20925832b94f847db4926a2eebcc2ca160c0708d5d855c798e339876"
+  },
+  {
+    "clip_id": "139",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "26cc2ea146ed222555c4c755956a33620a093b1bd9e63f7a6eafe141fcdd085a"
+  },
+  {
+    "clip_id": "140",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "6954ca6ef5167326ad0d5362cfde2afe6ee3439f63526fbfe734ddd34d7f7665"
+  },
+  {
+    "clip_id": "141",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "fa042e6a1ced769b59bd7bbeb737746e42317dff94683aa89b9877fae0f76298"
+  },
+  {
+    "clip_id": "142",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "9721387a0c8353677bcdb52f7a851af247f3ef32ae8680029450a27c189492bb"
+  },
+  {
+    "clip_id": "143",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "bee0bd525c841c36c1e626aae1d70a889e9a2cdec09c590fadc5c8a89f69552a"
+  },
+  {
+    "clip_id": "144",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "9761f9908b55fd2a99d2ca1b396df9aa6da09defb7ef69b46874c83cd69f1f22"
+  },
+  {
+    "clip_id": "145",
+    "procedure_id": "AutoLaparo_video_07",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "2fae2cec1af672d2e4ff2ce089868ad988811711aed69bca3e8a97eefee352f3"
+  },
+  {
+    "clip_id": "146",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "d88c45ec137109a58ca5941044b03c590ab5ea8d48d7c12661b7bdff5149abb5"
+  },
+  {
+    "clip_id": "147",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "2b3e6e1d0f49f3d9f621856679c3b47769338b4e1afff78e72dd92bb56912622"
+  },
+  {
+    "clip_id": "148",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "2d9c321649845f9f8bab1513230191e6e5b7256942d3097b6dd957ff556324a8"
+  },
+  {
+    "clip_id": "149",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "768ca791b2db6bf048059d07b4375e8109a9cae629060a1b9eec3aea156286a1"
+  },
+  {
+    "clip_id": "150",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "458fabdbe2740089443cad09e13ccf65cba7333ddc9a28ea298a55577dea60fa"
+  },
+  {
+    "clip_id": "151",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "9ebc4741867e8c69c8a5bc8ba33a190018e4f3b06f6f4c8188c29f894b1b7cf5"
+  },
+  {
+    "clip_id": "152",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e21f95f838ff2558770ef390d2b48a281989f8302c547232106b1b14d16b2573"
+  },
+  {
+    "clip_id": "153",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "1c6c1f686fb86795aed86e6f92e641bfbab434f1279a4e2af471ce05ef6727a1"
+  },
+  {
+    "clip_id": "154",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "8d0a61ac3156ebd0f4affb88d3ffc8a3917296437229cba6977c8a60d45d830a"
+  },
+  {
+    "clip_id": "155",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "e9125d1df29f9c8a9fc0f2212d36fd7ab89b4fda19bf9338847de47454b13853"
+  },
+  {
+    "clip_id": "156",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "43dd720f8a441ac637e90c30ec3b13fab67cac910e70b98570afafb669949b36"
+  },
+  {
+    "clip_id": "157",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "39f08ff0b7909a4fa8104e14cc31be2336bcee6b2889f3e7bc0db797546001a0"
+  },
+  {
+    "clip_id": "158",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "3f013a0bbbd90307688ef805c211b47b7653c30392e91599158a860f3fa27b18"
+  },
+  {
+    "clip_id": "159",
+    "procedure_id": "AutoLaparo_video_08",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "b17c61788604808853f6fc0560a45e223b07e51d1917ed2d4c6bee1e8eb0c367"
+  },
+  {
+    "clip_id": "160",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": true,
+    "video_sha256": "4af17e79951af05f1df29dafe9aa547f9e2d4d552a25437cf837bf0a93322b0e"
+  },
+  {
+    "clip_id": "161",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "f1b4fc45676875c3fb217794345ba343575211827a379b8b602460155d52d98c"
+  },
+  {
+    "clip_id": "162",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "04ebfea78cf2eb58f192e921955eac9a0d74eec85639c89c3a9479f2d5186ef6"
+  },
+  {
+    "clip_id": "163",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "cbaba514a900e42a85203c80f9dad5cb2c25e3f2faa7e536c20e3e2942a8b042"
+  },
+  {
+    "clip_id": "164",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "84974a4a47240985f3c24841bd290590531fd9f8b949d4a320526a0c31ca123a"
+  },
+  {
+    "clip_id": "165",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "0d641e274dbced38ecdea264d3042f0cc2f3c2d1744ddd5a0ee45b4d44fdcfe4"
+  },
+  {
+    "clip_id": "166",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "46fc3813128da3d80c797c146dac5a49c142a874bc1217cfa03137401b3f277d"
+  },
+  {
+    "clip_id": "167",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "7a3b45cacefe883d3ea5861aa4b8668c2e88a133b18e2056c6987cee69285080"
+  },
+  {
+    "clip_id": "168",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "596ccc65e6d482a6dde8dc232fd8db3250186afb22249b6973a022aa7f589770"
+  },
+  {
+    "clip_id": "169",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "b5efaadbb2c18c6c0de078529a5088b2dd6682f5c4f971eff811e7f5fdf9d121"
+  },
+  {
+    "clip_id": "170",
+    "procedure_id": "AutoLaparo_video_10",
+    "official_split": "train",
+    "reuse": false,
+    "video_sha256": "36a9e4c5514f9ad30b32f4e691062a91df8cfe0d96ac995e6d4912eec5ba9bc9"
+  }
+]

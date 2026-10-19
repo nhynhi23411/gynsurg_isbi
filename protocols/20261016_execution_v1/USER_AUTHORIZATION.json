@@ -1,0 +1,14 @@
+{
+  "authorized_at": "2026-10-16T08:35:05.900693+00:00",
+  "authorization_source": "Direct user messages in this chat on 2026-10-16",
+  "request": "thực hiện đầu tiên full đầy đủ với isbi gynssurg trước, đáp ứng đúng plan + rule",
+  "modal_authorization": "momodal lấy trên modal đi; tôi có 5 account modal, cứ coi acc nào còn credit mà dùng, cứ dùng",
+  "protocol_sha256": "a4868e568d859597dd8a240ceebf0a254cbd534fe07710439cb7dcb5f1173398",
+  "scope": "ISBI_GynSurg execution; existing Modal profiles/volumes and GPU compute; independent versioned outputs",
+  "limits": [
+    "No fabricated human labels, procedure IDs, ethics approvals or remaining credit balances",
+    "No final-test tuning; freeze protocol and verify scientific gates before final evaluation",
+    "No modification of old research/raw hardlinks; no paper submission or third-party messaging"
+  ],
+  "data_gates_not_waived": true
+}

@@ -1,0 +1,15 @@
+{
+  "status": "draft_not_applied",
+  "source_dataset": "AutoLaparo",
+  "source_ids_require_pixel_verification": true,
+  "official_split_preserved_as_provenance": true,
+  "development_source_ids": ["01", "02", "04"],
+  "validation_source_ids": ["03", "05", "06"],
+  "proposed_test_source_ids": ["07", "08", "10", "11", "13", "16", "17", "18", "19", "21"],
+  "n_proposed_test_procedures": 10,
+  "selection_rule": "Existing model-preview sources to development; lowest remaining contributing IDs to validation; remainder to held-out test. No policy accuracy used.",
+  "clinical_review_complete": false,
+  "split_frozen": false,
+  "approved_for_test": false,
+  "protocol_draft": "protocols/20261016_execution_v1/GROUPED_SPLIT_PROPOSAL.md"
+}

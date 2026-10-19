@@ -1,0 +1,1 @@
+run_id,variant,seed,split_sha256,config_sha256,checkpoint_sha256,output_path,status,gpu,started_at,finished_at

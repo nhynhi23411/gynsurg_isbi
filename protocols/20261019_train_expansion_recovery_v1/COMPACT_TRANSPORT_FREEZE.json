@@ -1,0 +1,8 @@
+{
+  "sha256": {
+    "tests/test_compact_transport.py": "79e52586990de2ed1dae2591f6396c2de211c9a09124c255fd6ae4ca41c68572",
+    "protocols/20261019_train_expansion_recovery_v1/COMPACT_TRANSPORT_ADDENDUM.md": "b59f7d3e13daa3202469c1df179a262bcd05c5501e0bba31457165b4244ee948",
+    "scripts/compact_train_expansion_transport.py": "e34abdec7a23887619752fb6c6c83378c30d94b95f7f472a782856e24fbb5da6"
+  },
+  "scope": "CPU-only compact metric transport; scientific worker/driver unchanged"
+}

@@ -1,0 +1,13 @@
+{
+  "recorded_utc": "2026-10-19T12:50:39.860137+00:00",
+  "before_recovery_dispatch": true,
+  "scientific_freeze_sha256": "fdd9ed06cba88d66c4bbeed929bbb7292479b0ecb3f12d21dd15139a2e4bc2fa",
+  "launcher_sha256": "825e1930d677e6ab7d92d3992b2c6526b7bb1b64037989e89b0e7964f14bc725",
+  "protocol_sha256": "654f18e8250aca40c0da1cb6ddd09927578ff9786acd76b037433b377c03dd09",
+  "test_sha256": "e2da3754861a561e62d44ffec878e7bc4f85d169732503b806061fa194f85a03",
+  "controller_python": "3.11",
+  "gpu_image_python": "3.11",
+  "local_analysis_environment": "original isbi_gynsurg Python3.12",
+  "algorithm_changed": false,
+  "final_test_open": false
+}

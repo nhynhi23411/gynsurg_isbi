@@ -1,0 +1,82 @@
+[
+  {
+    "run_id": "uniform_seed20261016",
+    "config": "configs/official_sparse_v1/uniform_seed20261016.json",
+    "output": "results/uniform_seed20261016"
+  },
+  {
+    "run_id": "random_seed100",
+    "config": "configs/official_sparse_v1/random_seed100.json",
+    "output": "results/random_seed100"
+  },
+  {
+    "run_id": "random_seed101",
+    "config": "configs/official_sparse_v1/random_seed101.json",
+    "output": "results/random_seed101"
+  },
+  {
+    "run_id": "random_seed102",
+    "config": "configs/official_sparse_v1/random_seed102.json",
+    "output": "results/random_seed102"
+  },
+  {
+    "run_id": "random_seed103",
+    "config": "configs/official_sparse_v1/random_seed103.json",
+    "output": "results/random_seed103"
+  },
+  {
+    "run_id": "random_seed104",
+    "config": "configs/official_sparse_v1/random_seed104.json",
+    "output": "results/random_seed104"
+  },
+  {
+    "run_id": "random_seed105",
+    "config": "configs/official_sparse_v1/random_seed105.json",
+    "output": "results/random_seed105"
+  },
+  {
+    "run_id": "random_seed106",
+    "config": "configs/official_sparse_v1/random_seed106.json",
+    "output": "results/random_seed106"
+  },
+  {
+    "run_id": "random_seed107",
+    "config": "configs/official_sparse_v1/random_seed107.json",
+    "output": "results/random_seed107"
+  },
+  {
+    "run_id": "random_seed108",
+    "config": "configs/official_sparse_v1/random_seed108.json",
+    "output": "results/random_seed108"
+  },
+  {
+    "run_id": "random_seed109",
+    "config": "configs/official_sparse_v1/random_seed109.json",
+    "output": "results/random_seed109"
+  },
+  {
+    "run_id": "uncertainty_seed20261016",
+    "config": "configs/official_sparse_v1/uncertainty_seed20261016.json",
+    "output": "results/uncertainty_seed20261016"
+  },
+  {
+    "run_id": "error_seed20261016",
+    "config": "configs/official_sparse_v1/error_seed20261016.json",
+    "output": "results/error_seed20261016"
+  },
+  {
+    "run_id": "error_diversity_seed20261016",
+    "config": "configs/official_sparse_v1/error_diversity_seed20261016.json",
+    "output": "results/error_diversity_seed20261016"
+  },
+  {
+    "run_id": "error_proximity_seed20261016",
+    "config": "configs/official_sparse_v1/error_proximity_seed20261016.json",
+    "output": "results/error_proximity_seed20261016"
+  },
+  {
+    "run_id": "full_seed20261016",
+    "config": "configs/official_sparse_v1/full_seed20261016.json",
+    "output": "results/full_seed20261016"
+  }
+]

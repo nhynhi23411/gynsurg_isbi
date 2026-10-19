@@ -1,0 +1,9 @@
+{
+  "stage_1": "Engineering: 059/086, all six fixed recipes",
+  "engineering_acceptance": "Complete outputs, input/config/freeze/hardware/budget/scoring identities and finite metrics; direction of quality delta is not an execution gate",
+  "stage_2": "After functional acceptance, run all six unchanged recipes on the nine already-used official-training source procedures",
+  "recipe_or_parameter_selection_from_engineering": false,
+  "tuning": false,
+  "final_test_open": false,
+  "scope": "Exploratory outcome-informed method redesign; no confirmatory efficacy claim"
+}

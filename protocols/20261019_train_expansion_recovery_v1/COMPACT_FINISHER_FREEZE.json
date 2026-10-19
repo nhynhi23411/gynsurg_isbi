@@ -1,0 +1,7 @@
+{
+  "sha256": {
+    "scripts/finish_compact_train_expansion.py": "5c1674f1e6c0afd304831f41a43209d817beed5e78dd9f8509817115bfdc5044"
+  },
+  "scope": "Verified compact metrics copy, same170 ledger and frozen original analysis",
+  "transport_freeze_sha256": "c1584eabc15cd141699a640dbd2bfd6eea02b48a8ce1a3705e81df74f3e5f8f9"
+}

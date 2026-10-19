@@ -1,0 +1,19 @@
+{
+  "procedure_id": "REQUIRES_VERIFIED_MAPPING",
+  "clip_id": "REQUIRES_ACTUAL_CLIP_ID",
+  "fps": 25,
+  "n_structures": 2,
+  "input_size": 518,
+  "working_max_side": 720,
+  "reference_format": "binary_per_structure",
+  "mean": [0.485, 0.456, 0.406],
+  "std": [0.229, 0.224, 0.225],
+  "query_ids": [],
+  "scoring_ids": [],
+  "group_verified": false,
+  "exposure_clean": false,
+  "permission_status": "unresolved",
+  "split": "val",
+  "clinical_scope_reviewed": false,
+  "human_annotation_complete": false
+}
