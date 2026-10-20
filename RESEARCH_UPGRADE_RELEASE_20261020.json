@@ -1,0 +1,130 @@
+{
+  "recorded_utc": "2026-10-20T01:55:08.391801+00:00",
+  "source_files": [
+    {
+      "path": "research_upgrade/bank.py",
+      "source_sha256": "317f2043919f191e6ec0235e0ccb856619109a9c7bc6e48e911999cd83fff947",
+      "export_sha256": "317f2043919f191e6ec0235e0ccb856619109a9c7bc6e48e911999cd83fff947",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/acceptance_v2.py",
+      "source_sha256": "6b4e54a4c66a65a05f00b3ff1c8145272b3a4865103e53a58e3b7494528ba378",
+      "export_sha256": "45eb27050b578e7d6b6790c6a7959e1af50f5355fc740695ad49d4cb99ca640a",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/online_replay.py",
+      "source_sha256": "81a68c9d0f1687bf3ffc394c1254afbc06afbd5c2c322d5c0d797a7810acf882",
+      "export_sha256": "81a68c9d0f1687bf3ffc394c1254afbc06afbd5c2c322d5c0d797a7810acf882",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/action_utility.py",
+      "source_sha256": "488a08eb31ffa067976ea4a9a4aa98e9855f6e26d38f5caf589649a340e83772",
+      "export_sha256": "488a08eb31ffa067976ea4a9a4aa98e9855f6e26d38f5caf589649a340e83772",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/external_scope.py",
+      "source_sha256": "4352cbd6456f3ded8d80e4b9102f49bb6ad8169656afa2abb78ff0d6f9dc70cc",
+      "export_sha256": "4352cbd6456f3ded8d80e4b9102f49bb6ad8169656afa2abb78ff0d6f9dc70cc",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/external_controls.py",
+      "source_sha256": "9b4509cbef6b9aa8c3eb40d07333cba5afafb4a77d3ac734f9089ffa2dad1ac7",
+      "export_sha256": "9b4509cbef6b9aa8c3eb40d07333cba5afafb4a77d3ac734f9089ffa2dad1ac7",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/summarize_external_controls.py",
+      "source_sha256": "ef0ef875d478ecb6bc0ea0d235d2ab497f653613a325fc89070e93ece62b885c",
+      "export_sha256": "ef0ef875d478ecb6bc0ea0d235d2ab497f653613a325fc89070e93ece62b885c",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/test_bank.py",
+      "source_sha256": "404bf46413b22bc8a240964ed23fc96bdd7e79d10fa337047e4f695fab1264f2",
+      "export_sha256": "404bf46413b22bc8a240964ed23fc96bdd7e79d10fa337047e4f695fab1264f2",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/test_acceptance.py",
+      "source_sha256": "cb43ed560e933c98c886015b3b3acdb970752f246b6a971d6a35bd10e63ecad4",
+      "export_sha256": "71441a8a1c09202a7df3913273497578275983b2069656228f4815bed5b06758",
+      "adaptation": "Unit tests target corrected frozen acceptance_v2"
+    },
+    {
+      "path": "research_upgrade/test_online_replay.py",
+      "source_sha256": "7390c0f898a2d8466cc4ce085b77250181eac5bc5ea301d362400709099c6891",
+      "export_sha256": "7390c0f898a2d8466cc4ce085b77250181eac5bc5ea301d362400709099c6891",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/test_action_utility.py",
+      "source_sha256": "8b9f63571c25116a411ededeeb21a906a9656e1e772d46d95cabc19547b68ff7",
+      "export_sha256": "8b9f63571c25116a411ededeeb21a906a9656e1e772d46d95cabc19547b68ff7",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/test_external_scope.py",
+      "source_sha256": "e865be831bd61c0dfb03620ad9c8c1d66a5905e77021c9a8c1ff1d2eeee3a2b4",
+      "export_sha256": "e865be831bd61c0dfb03620ad9c8c1d66a5905e77021c9a8c1ff1d2eeee3a2b4",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/test_external_controls.py",
+      "source_sha256": "b9628d4590fe1c6128880b4301f720cbd7fac52a6bf8ec7f8ce1c34967253061",
+      "export_sha256": "b9628d4590fe1c6128880b4301f720cbd7fac52a6bf8ec7f8ce1c34967253061",
+      "adaptation": null
+    },
+    {
+      "path": "research_upgrade/test_external_summary.py",
+      "source_sha256": "9f96c4968f86fe97827df900bed8f4054ed88e4fe61dbbff5734f38d99e20777",
+      "export_sha256": "9f96c4968f86fe97827df900bed8f4054ed88e4fe61dbbff5734f38d99e20777",
+      "adaptation": null
+    }
+  ],
+  "raw_data_or_medical_media_included": false,
+  "modal_launchers_included": false,
+  "external_results_included": false,
+  "final_test_performed": false,
+  "validation": {
+    "existing_synthetic_tests_passed": 62,
+    "research_upgrade_synthetic_tests_passed": 32,
+    "aggregate_source_budget_effects_reproduced": true,
+    "aggregate_numeric_tolerance": 1e-12
+  },
+  "aggregate_tables": [
+    {
+      "path": "benchmarks/research_upgrade_20261020/all_methods_auc.csv",
+      "sha256": "df02038dbbf168ef507234d95a61df492aab0e629cf1e453803bc8f3bad04622"
+    },
+    {
+      "path": "benchmarks/research_upgrade_20261020/all_methods_budget.csv",
+      "sha256": "a3ded249464467fbff0b2782b788e2b41ac33425cd51d8db09ea27c1b966d628"
+    },
+    {
+      "path": "benchmarks/research_upgrade_20261020/all_methods_harm.csv",
+      "sha256": "31768a595fd1145e4a5934630233aee909dca2f13f22c224a2b22f63670602eb"
+    },
+    {
+      "path": "benchmarks/research_upgrade_20261020/all_methods_source.csv",
+      "sha256": "e442b9c0f3be834f0293bec898abb6d59cad85ce69f716ca56f36f25bf18c373"
+    },
+    {
+      "path": "benchmarks/research_upgrade_20261020/runtime_by_clip.csv",
+      "sha256": "c9950b1cc2daf994fa06dc9904a1e47c91c78603420a60bad894033477f64a23"
+    },
+    {
+      "path": "benchmarks/research_upgrade_20261020/target_presence_budget_tables.csv",
+      "sha256": "e4019e3cda9ba362c54e563aed89d41f72a8998bbd656c40b38e1429a9d235a2"
+    },
+    {
+      "path": "benchmarks/research_upgrade_20261020/target_presence_source_auc.csv",
+      "sha256": "2e30d39abf7bc2089bdd08295c7e92775c8ff0fd4655c5574d5ea38403483bb5"
+    }
+  ],
+  "line_ending_transform": "New public core source and aggregate CSVs normalized to LF; scientific numeric content unchanged"
+}
