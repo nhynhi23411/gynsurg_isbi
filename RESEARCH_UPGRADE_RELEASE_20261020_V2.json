@@ -1,0 +1,28 @@
+{
+  "recorded_utc": "2026-10-20T13:23:09.981107+00:00",
+  "files": {
+    "research_upgrade/finite_sequence_diagnostic.py": "d3357b6ebd5de3ff04fab8ddc31f61ddca6e9c330e27eb3fada8b4e17fd60245",
+    "research_upgrade/test_finite_sequence_diagnostic.py": "fa8941395c5cf3bbb237366e47eedd287b28f7b767421b5c729d70d8cbdbb9b5",
+    "benchmarks/research_upgrade_external_20261020/contrasts.csv": "61ee514d4a84623dadd411028da9267fb4a1b757bd7c6529a51d139480e2b7c7",
+    "benchmarks/research_upgrade_external_20261020/declining_window_counts.csv": "2f0eea60af3cce6b40e2b365527c1317ff261fcc050730984f792f38e0c2486d",
+    "benchmarks/research_upgrade_external_20261020/mean_curves.csv": "046d8a82f98d921881bb4db8c88608b4c8085083f1a475990bda145793444fb2",
+    "benchmarks/research_upgrade_external_20261020/present_only_source_summary.csv": "bbf6b8909f6b9988a523131f02745967b5669b241b99ae9e32bfe71433e9b005",
+    "benchmarks/research_upgrade_external_20261020/reported_summary.json": "f5c92f3ecc5901b87520a4a83c5ca5aec9484eb78d809f7c1b15758147b4dfc0",
+    "benchmarks/research_upgrade_external_20261020/single_training_clip_software_replay.csv": "dbe788c80c6e512066eeabc1144c9d7d89f644faaf023a0b9733e036fd268c4a",
+    "benchmarks/research_upgrade_external_20261020/source_auc.csv": "a5235327ce0dc025f7e53b93369420933f027d28fb531f30d9465f95ffc3e3f9",
+    "benchmarks/research_upgrade_external_20261020/source_curves.csv": "a9ffaf5c40b11455b0d8ad38c7c337a6ce4e5549b74862ad8418da142c5361d2",
+    "benchmarks/research_upgrade_external_20261020/window_curves.csv": "9de997ce49afc9e7bdbd36c5018622339756905e636f2e59318c09a615992010",
+    "benchmarks/research_upgrade_finite_diagnostic_20261020/budget_diagnostic.csv": "ba7faa103bd9df9982e8210a4edd6a0153abb873a83da9e9c91ca5cda66a386a",
+    "benchmarks/research_upgrade_finite_diagnostic_20261020/source_diagnostic.csv": "c6529a33d721705acbd8747fa1fa71bb7329d5da227c17e1aa7f489afef0a1bd",
+    "docs/research_upgrade_20261020.md": "5beb3b388fd8da2805051acc7278f7dad6efc680e1911877e6c7b9f383199d1d",
+    "examples/reproduce_external_metrics.py": "a69ea8d0f8d933a8419092280111a4ebcedd1290809174e592c0fda42ae486fb"
+  },
+  "source_new_core_hashes": {
+    "research_upgrade/finite_sequence_diagnostic.py": "d3357b6ebd5de3ff04fab8ddc31f61ddca6e9c330e27eb3fada8b4e17fd60245",
+    "research_upgrade/test_finite_sequence_diagnostic.py": "fa8941395c5cf3bbb237366e47eedd287b28f7b767421b5c729d70d8cbdbb9b5"
+  },
+  "no_medical_media_weights_or_account_launchers": true,
+  "final_test": false,
+  "learned_candidates_promoted": false,
+  "author_approval_pending": true
+}

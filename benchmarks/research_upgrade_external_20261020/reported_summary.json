@@ -1,0 +1,31 @@
+{
+  "windows": 101,
+  "sources": 17,
+  "mean_auc": {
+    "uncertainty": 0.916172554647176,
+    "uniform": 0.9141448035945394,
+    "random": 0.9043173328280025
+  },
+  "contrasts": [
+    {
+      "contrast": "uncertainty_minus_uniform",
+      "delta_auc": 0.002027751052636522,
+      "lower95": -0.005708288629675445,
+      "upper95": 0.012753909604655262,
+      "positive_sources": 4,
+      "sources": 17
+    },
+    {
+      "contrast": "uncertainty_minus_random",
+      "delta_auc": 0.011855221819173416,
+      "lower95": 0.0015605976546416757,
+      "upper95": 0.02480554680673123,
+      "positive_sources": 10,
+      "sources": 17
+    }
+  ],
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 20261020,
+  "total_worker_hours": 1.6156620290627777,
+  "note": "Counterfactual bank compute, not deployed policy latency or billed GPU-hours"
+}

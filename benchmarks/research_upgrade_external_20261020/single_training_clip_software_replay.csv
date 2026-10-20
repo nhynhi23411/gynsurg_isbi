@@ -1,0 +1,3 @@
+mode,training_clip,gpu,paid_masks,propagations,replay_seconds,initialization_seconds,maximum_metric_difference,auc_difference_bound,maximum_feature_difference
+raw,001,NVIDIA A10,5,5,46.549495848,1.1871140249999996,0.00015260468005817707,6.269959866741503e-05,
+constant_reject_software_check,001,NVIDIA A10,5,9,83.623879652,0.4617528189999973,2.689226803598288e-05,1.8616096543966343e-05,0.0012759307598714242

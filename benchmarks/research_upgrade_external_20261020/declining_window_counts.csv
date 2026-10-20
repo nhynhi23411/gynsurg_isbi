@@ -1,0 +1,7 @@
+policy,transition,declining_windows,decline_above_002
+uncertainty,1_to_2,25,2
+uncertainty,2_to_3,30,2
+uniform,1_to_2,35,3
+uniform,2_to_3,30,2
+random,1_to_2,13,4
+random,2_to_3,18,2
