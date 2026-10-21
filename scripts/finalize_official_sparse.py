@@ -42,7 +42,7 @@ def main():
        train_expansion_pilot_acceptance=[read(p) for p in sorted((ROOT/'results').glob('train_expansion_*/recovery_20261019/pilot_passed.json'))],
        full_clip_engineering_benchmarks=[read(p) for p in sorted((ROOT/'results').glob('full_clip_technical_*/full_clip_technical.json'))],
        paper_protocol_compilations=[read(p) for p in sorted((ROOT/'results').glob('paper_protocol_draft_*/compilation_report.json'))],
-       modal_compute_profile='nhi544609',modal_data_source_profile='acc_v3',remaining_credit_balances='API does not expose remaining balance; no balance inferred')
+       modal_compute_profile='CONFIGURED_MODAL_PROFILE',modal_data_source_profile='CONFIGURED_MODAL_PROFILE',remaining_credit_balances='API does not expose remaining balance; no balance inferred')
     if analysis:report['status']='official_sparse_development_results_available_final_test_locked'
     if validation:report['status']='code_and_feasibility_validated_no_policy_advantage_demonstrated_test_locked'
     if report['reliability_prototype_runs']:report['status']='exploratory_reliability_prototype_results_available_final_test_locked'

@@ -88,7 +88,7 @@ Repeat check ở clip058 đạt exact query/scored-metric equality cho hai polic
 
 ## Vị trí dữ liệu và artifacts
 
-- Task1: Modal profile `nhi544609`, volume `isbi-gynsurg-task1-recovery-v1`, revision `3b4e39d5eba8f23c2123ce9557950063da6e0ac6`; mỗi nguồn có video, receipt/hash, ffprobe và evidence. Mirror checksum không phải provider-original checksum; NAS vẫn timeout.
+- Task1: Modal profile `CONFIGURED_MODAL_PROFILE`, volume `isbi-gynsurg-task1-recovery-v1`, revision `3b4e39d5eba8f23c2123ce9557950063da6e0ac6`; mỗi nguồn có video, receipt/hash, ffprobe và evidence. Mirror checksum không phải provider-original checksum; NAS vẫn timeout.
 - Task2 local: `data/raw/local/AutoLaparo/autolaparo_task2/clips/clips/` (300 clips, 3.776.270.793 bytes).
 - Task3 local: `data/raw/AutoLaparo_Task3/`; derived binary targets riêng ở `data/derived/task3_official_v1/`.
 - NPZ/JPEG tensors lớn và full job logs: private Modal volume `isbi-gynsurg-results-v1`; các CSV/JSON/log cần review đã tải local. Không tải 104GB Task1 vào ổ D đang ít dung lượng.
@@ -102,7 +102,7 @@ Repeat check ở clip058 đạt exact query/scored-metric equality cho hai polic
 
 ## Tiếp tục code sau khi review
 
-Chạy từ project root bằng venv `C:\\Users\\pc\\.venvs\\isbi_gynsurg\\Scripts\\python.exe`; set `MODAL_PROFILE=nhi544609` trong process khi dùng Modal, không đổi default profile toàn máy.
+Chạy từ project root bằng venv `C:\\Users\\pc\\.venvs\\isbi_gynsurg\\Scripts\\python.exe`; set `MODAL_PROFILE=CONFIGURED_MODAL_PROFILE` trong process khi dùng Modal, không đổi default profile toàn máy.
 
 ```powershell
 python -m unittest discover -s tests -v
@@ -123,7 +123,7 @@ Final inference CLIs vẫn yêu cầu verified inputs và test authorization. Kh
 
 Lần kiểm cuối: {tests} tests pass; source/config ledger và original plan hash được kiểm bởi `scripts/audit_official_sparse_evidence.py`. Evidence hiện hành ở [audit JSON](<D:/Thầy Khánh/ISBI/ISBI_GynSurg/materials/verification/official_sparse_evidence_audit.json>); đây là kiểm consistency artifacts, không phải một đợt rehash toàn bộ raw data hoặc clinical review mới. Entry point protocol rõ ràng ở `configs/active_protocol.json`; [runbook](<D:/Thầy Khánh/ISBI/ISBI_GynSurg/RUNBOOK.md>) có lệnh kiểm và tái chạy.
 
-Modal profile nhi544609 trả container list rỗng ở lần kiểm cuối. Snapshot billing cấp account ghi metered 5.40292415 USD, billed 0 USD và credit adjustment -4.60 USD; không phải cost riêng dự án hoặc remaining balance. Private volumes vẫn giữ dữ liệu. [Billing snapshot](<D:/Thầy Khánh/ISBI/ISBI_GynSurg/materials/verification/modal_billing_after_official_sparse.json>).
+Modal profile CONFIGURED_MODAL_PROFILE trả container list rỗng ở lần kiểm cuối. Snapshot billing cấp account ghi metered 5.40292415 USD, billed 0 USD và credit adjustment -4.60 USD; không phải cost riêng dự án hoặc remaining balance. Private volumes vẫn giữ dữ liệu. [Billing snapshot](<D:/Thầy Khánh/ISBI/ISBI_GynSurg/materials/verification/modal_billing_after_official_sparse.json>).
 
 Template hiện tại compile thành công thành ba trang ở `results/paper_protocol_draft_20261016T155203Z`; đã xem cả ba trang và workflow figure. Đây vẫn là protocol/implementation draft, không có final results. Ưu tiên bàn giao code, CSV/JSON và báo cáo MD theo yêu cầu hiện tại.
 '''

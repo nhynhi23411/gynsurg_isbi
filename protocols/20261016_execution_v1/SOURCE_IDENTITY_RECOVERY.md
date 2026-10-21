@@ -2,7 +2,7 @@
 
 Người dùng yêu cầu tiếp tục thực hiện ngày 16/10/2026. Sau khi NAS timeout, tìm được mirror công khai `DBD123/MedHorizon`, revision `3b4e39d5eba8f23c2123ce9557950063da6e0ac6`, thư mục `autolaparo/`. Mirror có 21 MP4, tổng 104.049.666.773 bytes. Metadata của mirror ghi 20 records dù có 21 video; không coi metadata này là chứng minh nguồn gốc.
 
-Chỉ dùng quyền nghiên cứu phi thương mại AutoLaparo đã cấp; giữ license nguồn CC-BY-NC-SA 4.0 và citation. License chung của mirror không thay thế điều khoản nguồn. Không tải video xuống ổ D đang gần đầy. Dữ liệu nằm trong private Modal volume `isbi-gynsurg-task1-recovery-v1` tại profile `nhi544609`, theo revision/video ID; không sửa volume dữ liệu cũ.
+Chỉ dùng quyền nghiên cứu phi thương mại AutoLaparo đã cấp; giữ license nguồn CC-BY-NC-SA 4.0 và citation. License chung của mirror không thay thế điều khoản nguồn. Không tải video xuống ổ D đang gần đầy. Dữ liệu nằm trong private Modal volume `isbi-gynsurg-task1-recovery-v1` tại profile `CONFIGURED_MODAL_PROFILE`, theo revision/video ID; không sửa volume dữ liệu cũ.
 
 ## Kiểm tra và bằng chứng
 

@@ -24,7 +24,7 @@ def main():
     identity_path=ROOT/'data/manifests/source_identity_recovery_v2/summary.json'
     identity=json.loads(identity_path.read_text()) if identity_path.exists() else None
     clip_benchmarks=[json.loads(p.read_text()) for p in sorted((ROOT/'results').glob('full_clip_technical_*/full_clip_technical.json'))]
-    report=dict(updated_at_utc=now,status=('Task1_mirror_recovery_in_progress_clinical_labels_pending' if recovery else 'awaiting_working_Task1_source_or_verified_mapping_and_clinical_labels'),task1_recovery=recovery,primary_correction_evaluation_complete=False,final_test_open=False,training_performed=False,clinical_preview_unique_frames=3,synthetic_unit_tests_passed=test_count,python_syntax_files=len(py),config_json_files=json_count,task3_transfer=transfer,task3_alignment=alignment,annotation_package=annotations,gates=gates,matched_gpu_smoke_path=str(matched[0].relative_to(ROOT)),latest_development_preview_path=str(preview[0].parent.relative_to(ROOT)/'development_preview.png'),modal_compute_profile='nhi544609',modal_data_source_profile='acc_v3',NAS_access_results=nas,remaining_credit_balances='not exposed by billing summary API; no balance invented')
+    report=dict(updated_at_utc=now,status=('Task1_mirror_recovery_in_progress_clinical_labels_pending' if recovery else 'awaiting_working_Task1_source_or_verified_mapping_and_clinical_labels'),task1_recovery=recovery,primary_correction_evaluation_complete=False,final_test_open=False,training_performed=False,clinical_preview_unique_frames=3,synthetic_unit_tests_passed=test_count,python_syntax_files=len(py),config_json_files=json_count,task3_transfer=transfer,task3_alignment=alignment,annotation_package=annotations,gates=gates,matched_gpu_smoke_path=str(matched[0].relative_to(ROOT)),latest_development_preview_path=str(preview[0].parent.relative_to(ROOT)/'development_preview.png'),modal_compute_profile='CONFIGURED_MODAL_PROFILE',modal_data_source_profile='CONFIGURED_MODAL_PROFILE',NAS_access_results=nas,remaining_credit_balances='not exposed by billing summary API; no balance invented')
     report['full_clip_engineering_benchmarks']=clip_benchmarks
     report['source_identity_verification']=identity
     if recovery and recovery['all_task1_videos_downloaded']:
@@ -39,7 +39,7 @@ Cập nhật UTC: {now}. Người dùng đã cho phép thực hiện toàn bộ 
 
 | Hạng mục | Kết quả và bằng chứng |
 |---|---|
-| Modal | Kiểm billing/inventory của 6 profile đã cấu hình. `huongntt-c2kc-ph` bị paused; không unpause. Đã dùng A10G tại `nhi544609`, dữ liệu cũ tại `acc_v3`. Billing summary không cho remaining credit balance. |
+| Modal | Kiểm billing/inventory của 6 profile đã cấu hình. `CONFIGURED_MODAL_PROFILE` bị paused; không unpause. Đã dùng A10G tại `CONFIGURED_MODAL_PROFILE`, dữ liệu cũ tại `CONFIGURED_MODAL_PROFILE`. Billing summary không cho remaining credit balance. |
 | Task 3 | Khôi phục đủ 1.800 ảnh + 1.800 mask, 590.595.868 bytes; hash local khớp remote toàn bộ. Mask RGB có ba kênh giống nhau, palette 0..180 bước 20. |
 | Frame alignment | 1.800/1.800 ảnh khớp frame video ở kiểm tra pixel; normalized RGB MAE tối đa {alignment['maximum_expected_rgb_mae']:.6f}. Không có frame bị flag review theo threshold đã định. |
 | Reference preparation | Có 3.600 binary masks dẫn xuất cho uterus/annotated-tools union; source scope review còn pending. Raw không sửa. |

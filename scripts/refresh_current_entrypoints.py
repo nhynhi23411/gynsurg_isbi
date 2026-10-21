@@ -46,7 +46,7 @@ Finalizer làm mới source checksum ledger; audit sau đó kiểm ledger và co
 Các GPU outputs feasibility/grid/validation đã có và được kiểm accepted cohort. Commands tái chạy tạo run mới/tốn compute:
 
 ```powershell
-$env:MODAL_PROFILE='nhi544609'
+$env:MODAL_PROFILE='CONFIGURED_MODAL_PROFILE'
 python -m modal run scripts/modal_official_sparse.py --stage pilot
 python -m modal run scripts/modal_official_sparse.py --stage feasibility
 python -m modal run scripts/modal_sparse_tuning.py

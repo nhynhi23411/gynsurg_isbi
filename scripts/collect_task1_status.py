@@ -31,7 +31,7 @@ def main():
         expected_bytes=manifest['total_bytes'],downloaded_sha256_verified_videos=len(receipts),
         downloaded_sha256_verified_bytes=sum(r['bytes'] for r in receipts),
         indexed_videos=len(list((ROOT/'materials/verification/task1_recovery_v1').glob('??.json'))),
-        raw_storage='Modal nhi544609 / isbi-gynsurg-task1-recovery-v1',
+        raw_storage='Modal CONFIGURED_MODAL_PROFILE / isbi-gynsurg-task1-recovery-v1',
         all_task1_videos_downloaded=len(receipts)==21,original_label_duration_checks=alignment,
         mapping_verified=(json.loads((ROOT/'configs/active_sequence_review.json').read_text()).get('grouping_verified',False) if (ROOT/'configs/active_sequence_review.json').exists() else False),primary_evaluation_complete=False)
     (ROOT/'materials/verification/task1_recovery_status.json').write_text(json.dumps(status,indent=2),encoding='utf8')
