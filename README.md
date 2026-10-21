@@ -4,15 +4,17 @@ Research code for budgeted full-mask correction and offline propagation in gynec
 
 ## Current evidence
 
-**20 October 2026 update:** completed source-grouped correction-verification and utility-scheduling analyses are documented in [the research findings](docs/research_upgrade_20261020.md), with [aggregate tables](benchmarks/research_upgrade_20261020/). Paid-anchor acceptance changes Dice AUC by -0.000431 versus raw uncertainty; entropy-based utility changes it by +0.001480, with both intervals crossing zero. Both branches fail their prespecified promotion gate. The separate external fixed-controls batch is running; no external efficacy or final-test result is claimed.
+**21 October completion extension:** [scientific report](docs/completion_extension_20261021/REPORT.md) and [aggregate tables](benchmarks/completion_extension_20261021/). Ten fixed feature/fallback ablations cover 170 training clips/nine sources; every original-pool mean is below raw. Nine representatives provide same-hardware compute and limited EVA-QNet/SASVi-inspired adaptations, not original-system reproductions. EVA-minus-raw AUC is -0.001289 with an interval crossing zero. The zero-gold predicted-prompt endpoint is reported separately. All 161 additional inputs were transferred privately, but the registered time gate stopped before new GPU inference. Closest-control efficacy remains nine clips; validation is protocol-only, final test closed. Private media, weights, credentials and account/transport launchers are excluded.
 
-The added `research_upgrade` package has 32 synthetic tests covering paid-mask isolation, matched budget replay, utility features, void labels and source-equal aggregation:
+**20 October 2026 update:** completed source-grouped correction-verification and utility-scheduling analyses are documented in [the research findings](docs/research_upgrade_20261020.md), with [aggregate tables](benchmarks/research_upgrade_20261020/). Paid-anchor acceptance changes Dice AUC by -0.000431 versus raw uncertainty; entropy-based utility changes it by +0.001480, with both intervals crossing zero. Both branches fail their prespecified promotion gate. The separate external fixed-controls batch is complete on 101 windows/17 sources from a previously explored release: entropy-minus-random AUC +0.011855, while the interval versus uniform crosses zero. No final-test result is claimed.
+
+The added `research_upgrade` package has 41 synthetic tests covering paid-mask isolation, matched budget replay, utility features, void labels and source-equal aggregation:
 
 ```bash
 python -m unittest discover -s research_upgrade -p 'test_*.py'
 ```
 
-The full-training expansion covers **170 clips from nine previously observed source videos**, not 170 independent procedures. There are 161 new inference runs and nine verified reuses.
+The earlier factorized-bank training expansion covers **170 clips from nine previously observed source videos**, not 170 independent procedures. That earlier bank cohort contains 161 new inference runs and nine verified reuses; the new close-comparator extension above remains nine clips.
 
 | Comparison | Source-macro normalized Dice AUC |
 |---|---:|

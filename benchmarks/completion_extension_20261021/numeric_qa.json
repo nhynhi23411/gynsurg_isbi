@@ -1,0 +1,10 @@
+{
+  "checked_utc": "2026-10-20T14:59:19.399773+00:00",
+  "passed": true,
+  "independent_source_budget_mean_raw_auc": 0.9165736232026496,
+  "reported_raw_auc": 0.9165736232026495,
+  "actual_clips": 9,
+  "full170": false,
+  "final_test": false,
+  "no_candidate_promotion": true
+}
