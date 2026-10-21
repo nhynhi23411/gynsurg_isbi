@@ -1,0 +1,15 @@
+{
+  "recorded_utc": "2026-10-21T20:44:42.805414+00:00",
+  "all170_execution_records_collected": true,
+  "original_integrity_gate_passed": false,
+  "original_accepted": 150,
+  "original_rejected": 20,
+  "observed_failure_pattern": "All20 rejected executions report A10G;118newA10 pass,23newA10G pass;17metric-only and3query mismatch",
+  "method_contrast_efficacy_inspected": false,
+  "original_thresholds_unchanged": true,
+  "no_rerun_or_hardware_selection": true,
+  "plan": "Separate structural/output integrity from historical raw bank equivalence; retain full170 cohort for clearly nonconforming exploratory appendix only after structural checks. Keep original failed150/170 gate as failed. Report hardware-stratified paired effects and three query divergences; no dropping failed20 or promote branch.",
+  "matched_contemporaneous_raw_required": true,
+  "final_test": false,
+  "validation_enabled": false
+}

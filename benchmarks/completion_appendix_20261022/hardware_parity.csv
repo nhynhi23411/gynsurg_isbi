@@ -1,0 +1,3 @@
+actual_gpu,clips,parity_pass,query_same,maximum_metric_drift,maximum_auc_bound,parity_fail
+NVIDIA A10,127,127,127,0.0003081086186234039,8.428749875837305e-05,0
+NVIDIA A10G,43,23,40,0.2290028947641014,0.137751030732471,20

@@ -1,0 +1,16 @@
+{
+  "actual_execution_records": 170,
+  "reused_representatives": 9,
+  "new_execution_records": 161,
+  "sources": 9,
+  "structural_checks_passed": true,
+  "original_primary_historical_parity_passed": false,
+  "historical_parity_failures": 20,
+  "query_history_failures": 3,
+  "nonconforming_exploratory_only": true,
+  "no_hardware_or_efficacy_rerun": true,
+  "uniform_reject_new_compute_coverage": 9,
+  "validation_execution": false,
+  "final_test": false,
+  "candidate_promoted": false
+}
