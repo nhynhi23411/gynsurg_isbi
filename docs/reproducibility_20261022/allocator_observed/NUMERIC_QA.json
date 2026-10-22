@@ -1,0 +1,18 @@
+{
+  "qa_passed": true,
+  "registered": 24,
+  "completed": 24,
+  "A10": 20,
+  "A10G": 4,
+  "paired_scope_steps": 516,
+  "same_class_score_steps": 192,
+  "same_class_exact_steps": 192,
+  "fixed_crossclass_score_steps": 24,
+  "fixed_max_probability_delta": 0.21630859375,
+  "fixed_max_mask_flip_fraction": 0.0002514860539551,
+  "fixed_registered_empty_events": 0,
+  "all_matched_empty_events": 3,
+  "conservative_planning_gpu_hours": 23.51431478492861,
+  "original_failed_gate_repaired": false,
+  "hardware_causality_established": false
+}

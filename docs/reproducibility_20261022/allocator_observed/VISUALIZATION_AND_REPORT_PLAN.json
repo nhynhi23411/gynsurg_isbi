@@ -1,0 +1,23 @@
+{
+  "recorded_utc": "2026-10-22T03:43:08.572781+00:00",
+  "v4_quantitative_outcomes_inspected": false,
+  "prior_v2_results_known": true,
+  "allocation_metadata_seen": true,
+  "figures": [
+    "All24plannedcellscoloredbyactualGPUormissing",
+    "Fixedquerycrossclassscoreprobabilitydriftstep0to5allavailablepairs",
+    "MeanabsolutepairheadDicecontributionbyreleasedreferencepresencesteps1and5fixedquery",
+    "AllfixedqueryemptyreferenceDiceflipsatsteps1and5withpredictedpixelcounts; if>12displayfirst12lexicalnotseverity,keepfullCSV"
+  ],
+  "tables": [
+    "Actualallocationcoverage",
+    "Allfactorpaircountsanddrifts",
+    "Crossclasseventstepspermatchedcell",
+    "Evaluatorreferencepresencedecomposition",
+    "Historicaltolerancebysourcehardwareclassdiagnosticnotrepair",
+    "Workercomputeandplanningcap"
+  ],
+  "claims": "Observedhardware/environmentassociationonly; no purehardwarecausality, efficacypromotion,thresholdchangeorclinicalabsence",
+  "original_gate_modified": false,
+  "final_test": false
+}

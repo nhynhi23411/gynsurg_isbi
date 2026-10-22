@@ -1,0 +1,242 @@
+[
+  {
+    "id": "132_allocator_fixed_r0",
+    "clip_id": "132",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "132_allocator_fixed_r1",
+    "clip_id": "132",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "003_allocator_fixed_r1",
+    "clip_id": "003",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "003_allocator_adaptive_r0",
+    "clip_id": "003",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "003_allocator_adaptive_r1",
+    "clip_id": "003",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "003_allocator_fixed_r0",
+    "clip_id": "003",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "132_allocator_adaptive_r0",
+    "clip_id": "132",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "132_allocator_adaptive_r1",
+    "clip_id": "132",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "044_allocator_adaptive_r1",
+    "clip_id": "044",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "004_allocator_adaptive_r0",
+    "clip_id": "004",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "004_allocator_adaptive_r1",
+    "clip_id": "004",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "002_allocator_fixed_r0",
+    "clip_id": "002",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "004_allocator_fixed_r1",
+    "clip_id": "004",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "148_allocator_fixed_r0",
+    "clip_id": "148",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "148_allocator_adaptive_r1",
+    "clip_id": "148",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "148_allocator_adaptive_r0",
+    "clip_id": "148",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "002_allocator_adaptive_r1",
+    "clip_id": "002",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "044_allocator_fixed_r1",
+    "clip_id": "044",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "004_allocator_fixed_r0",
+    "clip_id": "004",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "044_allocator_fixed_r0",
+    "clip_id": "044",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "002_allocator_adaptive_r0",
+    "clip_id": "002",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "002_allocator_fixed_r1",
+    "clip_id": "002",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "044_allocator_adaptive_r0",
+    "clip_id": "044",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  },
+  {
+    "id": "148_allocator_fixed_r1",
+    "clip_id": "148",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class",
+    "status": "complete"
+  }
+]

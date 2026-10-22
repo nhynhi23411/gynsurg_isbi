@@ -1,0 +1,23 @@
+{
+  "cell": {
+    "id": "132_allocator_fixed_r1",
+    "clip_id": "132",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": true,
+    "expected_gpu": null,
+    "allocation_policy": "retain_any_A10_class"
+  },
+  "actual_gpu": "NVIDIA A10",
+  "status": "complete",
+  "input_sha256": "4e773625a1edc96dd5f77d8a7ad1ad5d56ab2725035e984d7d384a9897b1784c",
+  "procedure_id": "AutoLaparo_video_06",
+  "seed": 20261017,
+  "paid_masks": 5,
+  "worker_seconds": 52.714026967,
+  "final_test": false,
+  "primary_historical_gate_modified": false,
+  "files": {
+    "diagnostics.json": "a4ee46e2b36a73ceac98ab6e2e20647da034df3ecc3a6083378f7b0623349dc8"
+  }
+}

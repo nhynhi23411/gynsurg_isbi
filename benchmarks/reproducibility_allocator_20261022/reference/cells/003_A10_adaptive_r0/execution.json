@@ -1,0 +1,22 @@
+{
+  "cell": {
+    "id": "003_A10_adaptive_r0",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": true
+  },
+  "actual_gpu": "NVIDIA A10",
+  "status": "complete",
+  "input_sha256": "cb37bf8e830e94a4a5d923a3249a38e5bb6c87bd2cb63d1c53fe746ceee7f4e5",
+  "procedure_id": "AutoLaparo_video_01",
+  "seed": 20261017,
+  "paid_masks": 5,
+  "worker_seconds": 49.901629549999996,
+  "final_test": false,
+  "primary_historical_gate_modified": false,
+  "files": {
+    "diagnostics.json": "7e2b58981e6f8357463cb53d9940650b83ae04864f3d3faaba59c47a47fe573b"
+  }
+}

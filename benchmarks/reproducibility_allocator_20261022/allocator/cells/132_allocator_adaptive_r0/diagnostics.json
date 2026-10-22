@@ -1,0 +1,476 @@
+{
+  "snapshots": [
+    {
+      "step": 0,
+      "frame_indices": [
+        0,
+        24,
+        49,
+        74,
+        99,
+        124
+      ],
+      "file": "state_0.npy",
+      "shape": [
+        6,
+        2,
+        405,
+        720
+      ],
+      "dtype": "float16",
+      "sha256": "913e7ab7c54216ef12d076fc4217f5071ff99e7ce02075f3d640c26fb3957191",
+      "minimum": 1.0013580322265625e-05,
+      "maximum": 1.0,
+      "threshold_05_foreground_fraction": 0.055174611339734794
+    },
+    {
+      "step": 1,
+      "frame_indices": [
+        0,
+        24,
+        49,
+        74,
+        99,
+        124
+      ],
+      "file": "state_1.npy",
+      "shape": [
+        6,
+        2,
+        405,
+        720
+      ],
+      "dtype": "float16",
+      "sha256": "ccee7a55c1dd6b6dc2c4727fe211c6524efa97e762961b87dc9b12ca08e88317",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "threshold_05_foreground_fraction": 0.0627120484682213
+    },
+    {
+      "step": 2,
+      "frame_indices": [
+        0,
+        24,
+        49,
+        74,
+        99,
+        124
+      ],
+      "file": "state_2.npy",
+      "shape": [
+        6,
+        2,
+        405,
+        720
+      ],
+      "dtype": "float16",
+      "sha256": "8e90811f5294c976d9323c08e323876030faf47ed2b55fca161f973adeba08bb",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "threshold_05_foreground_fraction": 0.04959447873799726
+    },
+    {
+      "step": 3,
+      "frame_indices": [
+        0,
+        24,
+        49,
+        74,
+        99,
+        124
+      ],
+      "file": "state_3.npy",
+      "shape": [
+        6,
+        2,
+        405,
+        720
+      ],
+      "dtype": "float16",
+      "sha256": "2a8357a027fda482302cfa3cb8d7447ebcff8425ac28b55741a207ed7e491406",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "threshold_05_foreground_fraction": 0.049151234567901235
+    },
+    {
+      "step": 4,
+      "frame_indices": [
+        0,
+        24,
+        49,
+        74,
+        99,
+        124
+      ],
+      "file": "state_4.npy",
+      "shape": [
+        6,
+        2,
+        405,
+        720
+      ],
+      "dtype": "float16",
+      "sha256": "041ed3db0084cb9a3245a6cb928a7b4cfe466798b3ca333136fd6e6206dea6d2",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "threshold_05_foreground_fraction": 0.05281350022862369
+    },
+    {
+      "step": 5,
+      "frame_indices": [
+        0,
+        24,
+        49,
+        74,
+        99,
+        124
+      ],
+      "file": "state_5.npy",
+      "shape": [
+        6,
+        2,
+        405,
+        720
+      ],
+      "dtype": "float16",
+      "sha256": "43ce45d40f6e540983c1a5d96a644662168dba2dbcd9cab12bc50183bdddefc6",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "threshold_05_foreground_fraction": 0.05282521719250114
+    }
+  ],
+  "queries": [
+    {
+      "query": 1,
+      "paid_subsets_before": [
+        0,
+        0
+      ],
+      "candidates": [
+        {
+          "frame": 0,
+          "head": 0,
+          "entropy": 0.04270843287815883
+        },
+        {
+          "frame": 49,
+          "head": 0,
+          "entropy": 0.04096093597334427
+        },
+        {
+          "frame": 24,
+          "head": 0,
+          "entropy": 0.03869073542243708
+        },
+        {
+          "frame": 49,
+          "head": 1,
+          "entropy": 0.011423136040428305
+        },
+        {
+          "frame": 24,
+          "head": 1,
+          "entropy": 0.011007324314497519
+        },
+        {
+          "frame": 0,
+          "head": 1,
+          "entropy": 0.008728922340927309
+        }
+      ],
+      "top_margin": 0.0017474969048145578,
+      "adaptive_query": [
+        0,
+        0
+      ],
+      "selected_query": [
+        0,
+        0
+      ],
+      "state_before": {
+        "shape": [
+          6,
+          2,
+          405,
+          720
+        ],
+        "dtype": "float16",
+        "sha256": "913e7ab7c54216ef12d076fc4217f5071ff99e7ce02075f3d640c26fb3957191",
+        "minimum": 1.0013580322265625e-05,
+        "maximum": 1.0,
+        "threshold_05_foreground_fraction": 0.055174611339734794
+      }
+    },
+    {
+      "query": 2,
+      "paid_subsets_before": [
+        1,
+        0
+      ],
+      "candidates": [
+        {
+          "frame": 49,
+          "head": 1,
+          "entropy": 0.011423136040428305
+        },
+        {
+          "frame": 24,
+          "head": 1,
+          "entropy": 0.011007324314497519
+        },
+        {
+          "frame": 0,
+          "head": 1,
+          "entropy": 0.008728922340927309
+        },
+        {
+          "frame": 49,
+          "head": 0,
+          "entropy": 0.005721648487699295
+        },
+        {
+          "frame": 24,
+          "head": 0,
+          "entropy": 0.0043323125072824474
+        }
+      ],
+      "top_margin": 0.0004158117259307863,
+      "adaptive_query": [
+        49,
+        1
+      ],
+      "selected_query": [
+        49,
+        1
+      ],
+      "state_before": {
+        "shape": [
+          6,
+          2,
+          405,
+          720
+        ],
+        "dtype": "float16",
+        "sha256": "ccee7a55c1dd6b6dc2c4727fe211c6524efa97e762961b87dc9b12ca08e88317",
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "threshold_05_foreground_fraction": 0.0627120484682213
+      }
+    },
+    {
+      "query": 3,
+      "paid_subsets_before": [
+        1,
+        4
+      ],
+      "candidates": [
+        {
+          "frame": 24,
+          "head": 1,
+          "entropy": 0.010315985632968835
+        },
+        {
+          "frame": 49,
+          "head": 0,
+          "entropy": 0.005721648487699295
+        },
+        {
+          "frame": 0,
+          "head": 1,
+          "entropy": 0.004492892238127991
+        },
+        {
+          "frame": 24,
+          "head": 0,
+          "entropy": 0.0043323125072824474
+        }
+      ],
+      "top_margin": 0.00459433714526954,
+      "adaptive_query": [
+        24,
+        1
+      ],
+      "selected_query": [
+        24,
+        1
+      ],
+      "state_before": {
+        "shape": [
+          6,
+          2,
+          405,
+          720
+        ],
+        "dtype": "float16",
+        "sha256": "8e90811f5294c976d9323c08e323876030faf47ed2b55fca161f973adeba08bb",
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "threshold_05_foreground_fraction": 0.04959447873799726
+      }
+    },
+    {
+      "query": 4,
+      "paid_subsets_before": [
+        1,
+        6
+      ],
+      "candidates": [
+        {
+          "frame": 49,
+          "head": 0,
+          "entropy": 0.005721648487699295
+        },
+        {
+          "frame": 24,
+          "head": 0,
+          "entropy": 0.0043323125072824474
+        },
+        {
+          "frame": 0,
+          "head": 1,
+          "entropy": 0.004067677898207066
+        }
+      ],
+      "top_margin": 0.0013893359804168478,
+      "adaptive_query": [
+        49,
+        0
+      ],
+      "selected_query": [
+        49,
+        0
+      ],
+      "state_before": {
+        "shape": [
+          6,
+          2,
+          405,
+          720
+        ],
+        "dtype": "float16",
+        "sha256": "2a8357a027fda482302cfa3cb8d7447ebcff8425ac28b55741a207ed7e491406",
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "threshold_05_foreground_fraction": 0.049151234567901235
+      }
+    },
+    {
+      "query": 5,
+      "paid_subsets_before": [
+        5,
+        6
+      ],
+      "candidates": [
+        {
+          "frame": 0,
+          "head": 1,
+          "entropy": 0.004067677898207066
+        },
+        {
+          "frame": 24,
+          "head": 0,
+          "entropy": 0.004002631170879662
+        }
+      ],
+      "top_margin": 6.50467273274032e-05,
+      "adaptive_query": [
+        0,
+        1
+      ],
+      "selected_query": [
+        0,
+        1
+      ],
+      "state_before": {
+        "shape": [
+          6,
+          2,
+          405,
+          720
+        ],
+        "dtype": "float16",
+        "sha256": "041ed3db0084cb9a3245a6cb928a7b4cfe466798b3ca333136fd6e6206dea6d2",
+        "minimum": 0.0,
+        "maximum": 1.0,
+        "threshold_05_foreground_fraction": 0.05281350022862369
+      }
+    }
+  ],
+  "bought_queries": [
+    [
+      0,
+      0
+    ],
+    [
+      49,
+      1
+    ],
+    [
+      24,
+      1
+    ],
+    [
+      49,
+      0
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "propagations": [
+    {
+      "head": 0,
+      "subset": 1,
+      "paid_at_execution": 1,
+      "seconds": 11.296351472
+    },
+    {
+      "head": 1,
+      "subset": 4,
+      "paid_at_execution": 4,
+      "seconds": 11.486173739000002
+    },
+    {
+      "head": 1,
+      "subset": 6,
+      "paid_at_execution": 6,
+      "seconds": 11.225759410999999
+    },
+    {
+      "head": 0,
+      "subset": 5,
+      "paid_at_execution": 5,
+      "seconds": 10.148683765000001
+    },
+    {
+      "head": 1,
+      "subset": 7,
+      "paid_at_execution": 7,
+      "seconds": 11.264473820999996
+    }
+  ],
+  "metrics": [
+    {
+      "budget": 0,
+      "dice": 0.6844908443544605,
+      "iou": 0.6070489390801503
+    },
+    {
+      "budget": 1,
+      "dice": 0.43330367793374425,
+      "iou": 0.3815953179600286
+    },
+    {
+      "budget": 2,
+      "dice": 0.29327673519592307,
+      "iou": 0.24066350216203247
+    },
+    {
+      "budget": 5,
+      "dice": 0.5229335067482542,
+      "iou": 0.44817018631053895
+    }
+  ],
+  "temporal_mode": "offline_bidirectional"
+}

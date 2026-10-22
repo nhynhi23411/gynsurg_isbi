@@ -1,0 +1,7 @@
+factor,step_pairs,exact,max_probability_delta,max_mask_flip_fraction
+additional_repeat,96,96,0.0,0.0
+mode,48,48,0.0,0.0
+mode_mixed_hardware,24,4,1.0,0.0093187014174668
+observed_hardware_environment,18,3,1.0,0.0093187014174668
+repeat,48,48,0.0,0.0
+repeat_mixed_hardware,24,4,1.0,0.0093187014174668

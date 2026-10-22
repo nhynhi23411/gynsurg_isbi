@@ -1,0 +1,21 @@
+{
+  "reference_complete": 19,
+  "allocator_complete": 24,
+  "row_count": 516,
+  "environment_score_step_pairs": 18,
+  "maximum_probability_difference": 1.0,
+  "maximum_threshold_flip_fraction": 0.009612768632830362,
+  "cloud_constrained_extension": false,
+  "allocator_observed_replication": true,
+  "hardware_causality_established": false,
+  "original_primary_gate_modified": false,
+  "final_test": false,
+  "reference_decomposition": {
+    "per_head_rows": 1548,
+    "environment_head_contrasts": 684,
+    "absent_reference_nonzero_contrasts": 3,
+    "all_registered_aggregate_metrics_reconstructed": true,
+    "threshold_changed": false,
+    "evaluator_only": true
+  }
+}

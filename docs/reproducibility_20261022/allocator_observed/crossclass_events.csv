@@ -1,0 +1,12 @@
+clip_id,mode_a,mode_b,cell_a,cell_b,first_state_difference,first_query_prefix_difference,max_probability_delta
+004,adaptive,fixed,allocator:004_allocator_adaptive_r1,allocator:004_allocator_fixed_r1,1,-1,0.1595458984375
+004,fixed,fixed,allocator:004_allocator_fixed_r0,allocator:004_allocator_fixed_r1,1,-1,0.1595458984375
+132,adaptive,adaptive,allocator:132_allocator_adaptive_r0,allocator:132_allocator_adaptive_r1,1,4,1.0
+132,adaptive,fixed,allocator:132_allocator_adaptive_r0,allocator:132_allocator_fixed_r0,1,4,1.0
+148,adaptive,adaptive,allocator:148_allocator_adaptive_r0,allocator:148_allocator_adaptive_r1,1,2,0.9992499351501464
+148,adaptive,fixed,allocator:148_allocator_adaptive_r0,allocator:148_allocator_fixed_r0,1,-1,0.21630859375
+148,adaptive,fixed,allocator:148_allocator_adaptive_r1,allocator:148_allocator_fixed_r1,1,2,0.9992499351501464
+148,fixed,fixed,allocator:148_allocator_fixed_r0,allocator:148_allocator_fixed_r1,1,-1,0.21630859375
+004,fixed,fixed,reference:004_A10_fixed_r1,allocator:004_allocator_fixed_r1,1,-1,0.1595458984375
+132,adaptive,adaptive,reference:132_A10_adaptive_r0,allocator:132_allocator_adaptive_r0,1,4,1.0
+148,fixed,fixed,reference:148_A10_fixed_r0,allocator:148_allocator_fixed_r0,1,-1,0.21630859375

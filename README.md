@@ -1,3 +1,7 @@
+## Latest allocator-observed reproducibility diagnostic
+
+All 24 registered additional executions completed (20 A10, four A10G). Independent metadata/hash/scalar QA passed for 43 records, 516 pair-scope steps and 1,548 head/frame scores. All 192 same-class scoring-step pairs were exact; fixed-query cross-class comparisons still differed by up to 0.216309 in probability. This is execution-environment association, not isolated GPU causality or a repair of the original failed gate. The original 20/170 failures remain; validation and final test remain closed. Full report and four figures: [allocator-observed report](docs/reproducibility_20261022/allocator_observed/REPORT.md). Run `python tools/reproduce_allocator_diagnostic.py` to audit the aggregate release. No prediction arrays or medical imagery are published.
+
 # Gynecologic surgical video correction experiments
 
 Research code for budgeted full-mask correction and offline propagation in gynecologic video segmentation. A frozen framewise segmenter provides the no-correction baseline; SAM2 propagates charged masks selected from a fixed candidate pool. Queries and scoring frames are disjoint.

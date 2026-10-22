@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "registered_cells": 24,
+  "completed_new": 24,
+  "complete_design": true,
+  "completed_reference": 19,
+  "verified_pair_scope_steps": 516,
+  "per_head_rows": 1548,
+  "head_contrasts": 684,
+  "allocator_hardware_counts": {
+    "NVIDIA A10": 20,
+    "NVIDIA A10G": 4
+  },
+  "original_primary_gate_modified": false,
+  "validation_executed": false,
+  "final_test": false,
+  "hardware_causality_established": false
+}

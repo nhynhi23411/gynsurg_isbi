@@ -1,0 +1,5 @@
+step,reference_present,head_pairs,mean_absolute_dice_difference,maximum_absolute_dice_difference
+1,False,6,0.0,0.0
+1,True,18,4.749178643867788e-05,0.0002407449986779886
+5,False,6,0.0,0.0
+5,True,18,0.00043273610196390176,0.00113351195996525

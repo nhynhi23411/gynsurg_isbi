@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "pages": 5,
+  "tables": 6,
+  "figures": 4,
+  "numeric_cells": 139,
+  "all_table_numbers_match": true,
+  "all_images_match": true,
+  "all_final_pages_visually_inspected": true,
+  "original_gate_modified": false,
+  "final_test": false
+}
