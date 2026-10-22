@@ -1,0 +1,11 @@
+clip_id,factor,step_pairs,exact_step_pairs,max_probability_difference,max_mask_flip_fraction
+002,mode,12,12,0.0,0.0
+002,repeat,12,12,0.0,0.0
+003,mode,12,12,0.0,0.0
+003,repeat,12,12,0.0,0.0
+004,repeat,6,6,0.0,0.0
+044,mode,12,12,0.0,0.0
+044,repeat,12,12,0.0,0.0
+132,mode,6,6,0.0,0.0
+132,repeat,6,6,0.0,0.0
+148,mode,6,6,0.0,0.0

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "registered_cells": 48,
+  "attempted_cells": 25,
+  "completed_cells": 19,
+  "skipped_hardware_cells": 6,
+  "not_dispatched_cells": 23,
+  "verified_step_pairs": 96,
+  "actual_hardware": [
+    "NVIDIA A10"
+  ],
+  "complete_full_factorial_design": false,
+  "original_primary_gate_modified": false,
+  "validation_executed": false,
+  "final_test": false,
+  "scope": "technical integrity only, no efficacy promotion"
+}

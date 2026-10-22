@@ -1,0 +1,17 @@
+cell_a,cell_b,factor,same_physical_device
+002_A10_adaptive_r0,002_A10_adaptive_r1,repeat,False
+002_A10_adaptive_r0,002_A10_fixed_r0,mode,False
+002_A10_adaptive_r1,002_A10_fixed_r1,mode,False
+002_A10_fixed_r0,002_A10_fixed_r1,repeat,False
+003_A10_adaptive_r0,003_A10_adaptive_r1,repeat,False
+003_A10_adaptive_r0,003_A10_fixed_r0,mode,False
+003_A10_adaptive_r1,003_A10_fixed_r1,mode,False
+003_A10_fixed_r0,003_A10_fixed_r1,repeat,False
+004_A10_fixed_r0,004_A10_fixed_r1,repeat,False
+044_A10_adaptive_r0,044_A10_adaptive_r1,repeat,False
+044_A10_adaptive_r0,044_A10_fixed_r0,mode,False
+044_A10_adaptive_r1,044_A10_fixed_r1,mode,False
+044_A10_fixed_r0,044_A10_fixed_r1,repeat,False
+132_A10_adaptive_r0,132_A10_adaptive_r1,repeat,False
+132_A10_adaptive_r0,132_A10_fixed_r0,mode,False
+148_A10_adaptive_r0,148_A10_fixed_r0,mode,False

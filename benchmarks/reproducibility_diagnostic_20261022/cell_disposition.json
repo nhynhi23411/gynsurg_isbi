@@ -1,0 +1,434 @@
+[
+  {
+    "id": "003_A10_adaptive_r0",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": true,
+    "status": "complete"
+  },
+  {
+    "id": "003_A10_adaptive_r1",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": true,
+    "status": "complete"
+  },
+  {
+    "id": "003_A10_fixed_r0",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": true,
+    "status": "complete"
+  },
+  {
+    "id": "003_A10_fixed_r1",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": true,
+    "status": "complete"
+  },
+  {
+    "id": "003_A10G_adaptive_r0",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": true,
+    "status": "hardware_mismatch_no_inference"
+  },
+  {
+    "id": "003_A10G_adaptive_r1",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": true,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "003_A10G_fixed_r0",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": true,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "003_A10G_fixed_r1",
+    "clip_id": "003",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": true,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "132_A10_adaptive_r0",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": true,
+    "status": "complete"
+  },
+  {
+    "id": "132_A10_adaptive_r1",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": true,
+    "status": "complete"
+  },
+  {
+    "id": "132_A10_fixed_r0",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": true,
+    "status": "complete"
+  },
+  {
+    "id": "132_A10_fixed_r1",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": true,
+    "status": "hardware_mismatch_no_inference"
+  },
+  {
+    "id": "132_A10G_adaptive_r0",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": true,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "132_A10G_adaptive_r1",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": true,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "132_A10G_fixed_r0",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": true,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "132_A10G_fixed_r1",
+    "clip_id": "132",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": true,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "044_A10_adaptive_r0",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "044_A10_adaptive_r1",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "044_A10_fixed_r0",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "044_A10_fixed_r1",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "044_A10G_adaptive_r0",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "044_A10G_adaptive_r1",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "044_A10G_fixed_r0",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "044_A10G_fixed_r1",
+    "clip_id": "044",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "148_A10_adaptive_r0",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "148_A10_adaptive_r1",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "hardware_mismatch_no_inference"
+  },
+  {
+    "id": "148_A10_fixed_r0",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "148_A10_fixed_r1",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "hardware_mismatch_no_inference"
+  },
+  {
+    "id": "148_A10G_adaptive_r0",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "148_A10G_adaptive_r1",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "148_A10G_fixed_r0",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "148_A10G_fixed_r1",
+    "clip_id": "148",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "002_A10_adaptive_r0",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "002_A10_adaptive_r1",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "002_A10_fixed_r0",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "002_A10_fixed_r1",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "002_A10G_adaptive_r0",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "002_A10G_adaptive_r1",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "002_A10G_fixed_r0",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "002_A10G_fixed_r1",
+    "clip_id": "002",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "004_A10_adaptive_r0",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "hardware_mismatch_no_inference"
+  },
+  {
+    "id": "004_A10_adaptive_r1",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "hardware_mismatch_no_inference"
+  },
+  {
+    "id": "004_A10_fixed_r0",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "004_A10_fixed_r1",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "complete"
+  },
+  {
+    "id": "004_A10G_adaptive_r0",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "004_A10G_adaptive_r1",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "adaptive",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "004_A10G_fixed_r0",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 0,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  },
+  {
+    "id": "004_A10G_fixed_r1",
+    "clip_id": "004",
+    "expected_gpu": "NVIDIA A10G",
+    "mode": "fixed",
+    "repeat": 1,
+    "pilot": false,
+    "status": "not_dispatched_hardware_unavailable"
+  }
+]

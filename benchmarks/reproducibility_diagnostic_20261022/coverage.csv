@@ -1,0 +1,8 @@
+expected_gpu,mode,status,cells
+NVIDIA A10,adaptive,complete,9
+NVIDIA A10,adaptive,hardware_mismatch_no_inference,3
+NVIDIA A10,fixed,complete,10
+NVIDIA A10,fixed,hardware_mismatch_no_inference,2
+NVIDIA A10G,adaptive,hardware_mismatch_no_inference,1
+NVIDIA A10G,adaptive,not_dispatched_hardware_unavailable,11
+NVIDIA A10G,fixed,not_dispatched_hardware_unavailable,12

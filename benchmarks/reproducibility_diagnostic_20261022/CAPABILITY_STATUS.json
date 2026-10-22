@@ -1,0 +1,7 @@
+{
+  "cloud_constrained_extension": "planned and attempted function creation only",
+  "error": "Pinning cloud aws not supported",
+  "scientific_calls_created": 0,
+  "inference_executed": false,
+  "old_outputs_replaced": false
+}

@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "registered_cells": 48,
+  "attempted_cells": 25,
+  "completed_cells": 19,
+  "skipped_hardware_cells": 6,
+  "not_dispatched_cells": 23,
+  "verified_step_pairs": 96,
+  "actual_hardware": [
+    "NVIDIA A10"
+  ],
+  "complete_full_factorial_design": false,
+  "original_primary_gate_modified": false,
+  "validation_executed": false,
+  "final_test": false,
+  "scope": "technical integrity only, no efficacy promotion",
+  "exact_all_available_step_pairs": true,
+  "maximum_probability_difference": 0.0,
+  "maximum_threshold_flip_fraction": 0.0,
+  "historical_adaptive_records": 9,
+  "diagnostic_historical_tolerance_passes": 9,
+  "measured_new_worker_hours": 0.2878208366372222,
+  "conservative_total_with_startup_and_reserve": 22.762791362816944,
+  "hardware_causality_established": false,
+  "original_failed_gate_repaired": false
+}
