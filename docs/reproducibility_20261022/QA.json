@@ -1,0 +1,15 @@
+{
+  "recorded_utc": "2026-10-22T02:14:02.372801+00:00",
+  "tests_passed": 47,
+  "tests_failed": 0,
+  "initial_test_tempdir_permission_error": true,
+  "resolved_by_workspace_tempdir": true,
+  "science_code_changed": false,
+  "old_primary_gate_changed": false,
+  "gpu_dispatched": false,
+  "all170_cpu_records_checked": true,
+  "baseline_budget0_metric_max_difference": 2.220446049250313e-16,
+  "query_replay_steps_checked": 850,
+  "evidence_records_sha256": "65c5ca0e37cec4cc1fb2209c190e943822d75005c944e39c5561f215afea29b3",
+  "independent_summary_reconstruction_passed": true
+}

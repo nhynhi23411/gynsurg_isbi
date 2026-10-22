@@ -4,6 +4,8 @@ Research code for budgeted full-mask correction and offline propagation in gynec
 
 ## Current evidence
 
+**Code freeze and reproducibility investigation:** snapshot `adb41c1` is tagged `freeze-completion-20261022`. [CPU-only findings and planned technical study](docs/reproducibility_20261022/FINDINGS.md) distinguish propagation drift from query-history changes. Investigation code is isolated on `research/reproducibility-20261022`; no new GPU or validation/test run is claimed.
+
 **22 October full execution and failed parity gate:** [scientific report](docs/completion_appendix_20261022/REPORT.md) and [numerical appendix](benchmarks/completion_appendix_20261022/) retain all 170 execution records (161 new + nine reuses). Original historical raw parity fails on 20 clips, including three different query histories; all failures occurred on A10G. Structural provenance/hash/budget checks pass separately and do not override this failed primary acceptance gate. The all-170 results are a **nonconforming exploratory appendix**, not accepted primary-protocol results or independent validation. EVA-minus-current-raw AUC is -0.003079, descriptive 95% interval [-0.007819,+0.001327]. The separate zero-gold automatic Dice difference is -0.012065, interval [-0.026281,+0.001406]. No hardware-based dropping or favorable rerun was performed. Uniform/reject new-compute coverage remains nine. Validation is protocol-only, final test closed. Run `python tools/reproduce_completion_appendix.py` to reconstruct source-equal summaries and verify retained failures.
 
 

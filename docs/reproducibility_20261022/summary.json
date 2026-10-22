@@ -1,0 +1,19 @@
+{
+  "records": 170,
+  "sources": 9,
+  "parity_failures": 20,
+  "query_divergent_clips": [
+    "044",
+    "132",
+    "148"
+  ],
+  "failed_with_same_full_query_history": 17,
+  "failed_with_no_earlier_query_divergence": 10,
+  "baseline_budget0_maximum": 2.220446049250313e-16,
+  "current_entropy_margins_available": false,
+  "tensor_level_outputs_available": false,
+  "hardware_causality_established": false,
+  "gpu_dispatched": false,
+  "final_test": false,
+  "original_gate_modified": false
+}

@@ -1,0 +1,5 @@
+{
+  "evidence_manifest_sha256": "65c5ca0e37cec4cc1fb2209c190e943822d75005c944e39c5561f215afea29b3",
+  "files_checked": 1190,
+  "scope": "execution metadata, queries, curves and historical selector observables; no prediction pixels"
+}
