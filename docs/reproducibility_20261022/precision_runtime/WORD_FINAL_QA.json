@@ -1,0 +1,15 @@
+{
+  "numeric_cells": 99,
+  "all_table_numbers_match": true,
+  "all_images_match": true,
+  "tables": 5,
+  "figures": 4,
+  "passed": true,
+  "pages": 5,
+  "all_final_pages_visually_inspected": true,
+  "four_unchanged_pages_pixel_hash_verified": true,
+  "revised_header_page_visually_inspected": true,
+  "final_table_numbers_not_split_across_lines": true,
+  "original_gate_modified": false,
+  "final_test": false
+}

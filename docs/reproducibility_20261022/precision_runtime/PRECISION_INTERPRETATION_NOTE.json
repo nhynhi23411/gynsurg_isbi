@@ -1,0 +1,18 @@
+{
+  "recorded_utc": "2026-10-22T12:48:44.820514+00:00",
+  "v5_quantitative_outcomes_inspected": false,
+  "source": "materials/code/extracted/sam2/sam2-main/sam2/sam2_video_predictor.py",
+  "source_sha256": "912555920a77f72ded07839efa33fcceecc79f3523abbec783f0be46ee2c55c2",
+  "evidence": [
+    {
+      "line": 781,
+      "code": "maskmem_features = maskmem_features.to(torch.bfloat16)"
+    },
+    {
+      "line": 833,
+      "code": "maskmem_features = maskmem_features.to(torch.bfloat16)"
+    }
+  ],
+  "interpretation": "float32 arm disables external BF16 autocast and both TF32 flags; official SAM2 still casts mask-memory features to BF16 internally. This is not a pure-FP32-all-tensors execution. Same internal storage policy is retained in both arms. No source/config/output changes or reruns.",
+  "protocol_or_scientific_code_changed": false
+}

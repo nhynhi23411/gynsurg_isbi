@@ -1,0 +1,5 @@
+clip_id,repeat,first_precision,completed_arms,same_physical_device
+132,0,bfloat16,2,True
+132,1,float32,2,True
+148,0,bfloat16,0,not_verified_incomplete
+148,1,float32,2,True

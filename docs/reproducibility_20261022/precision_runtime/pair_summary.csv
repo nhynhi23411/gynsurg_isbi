@@ -1,0 +1,6 @@
+factor,precision_a,precision_b,gpu_a,gpu_b,step_pairs,exact_steps,max_probability_difference,max_flip_fraction
+same_precision_repeat,bfloat16,bfloat16,NVIDIA A10,NVIDIA A10G,6,1,1.0,0.0094415866483767
+same_precision_repeat,float32,float32,NVIDIA A10,NVIDIA A10G,6,1,0.000732421875,1.7146776406035663e-06
+within_device_precision,bfloat16,float32,NVIDIA A10,NVIDIA A10,6,1,1.0,0.0096250571559213
+within_device_precision,float32,bfloat16,NVIDIA A10,NVIDIA A10,6,1,0.42529296875,0.000340077732053
+within_device_precision,float32,bfloat16,NVIDIA A10G,NVIDIA A10G,6,1,0.9111785888671876,0.0017192501143118

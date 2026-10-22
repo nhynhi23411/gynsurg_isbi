@@ -1,0 +1,9 @@
+clip_id,repeat,precision,status,gpu
+132,0,bfloat16,complete,A10
+132,0,float32,complete,A10
+132,1,float32,complete,A10G
+132,1,bfloat16,complete,A10G
+148,0,bfloat16,missing_or_partial,not completed
+148,0,float32,missing_or_partial,not completed
+148,1,float32,complete,A10
+148,1,bfloat16,complete,A10

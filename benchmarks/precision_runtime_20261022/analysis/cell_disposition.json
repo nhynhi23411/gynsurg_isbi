@@ -1,0 +1,74 @@
+[
+  {
+    "id": "132_bfloat16_r0",
+    "pair_id": "132_precision_pair_r0",
+    "clip_id": "132",
+    "mode": "fixed",
+    "repeat": 0,
+    "precision": "bfloat16",
+    "status": "complete"
+  },
+  {
+    "id": "132_float32_r0",
+    "pair_id": "132_precision_pair_r0",
+    "clip_id": "132",
+    "mode": "fixed",
+    "repeat": 0,
+    "precision": "float32",
+    "status": "complete"
+  },
+  {
+    "id": "132_float32_r1",
+    "pair_id": "132_precision_pair_r1",
+    "clip_id": "132",
+    "mode": "fixed",
+    "repeat": 1,
+    "precision": "float32",
+    "status": "complete"
+  },
+  {
+    "id": "132_bfloat16_r1",
+    "pair_id": "132_precision_pair_r1",
+    "clip_id": "132",
+    "mode": "fixed",
+    "repeat": 1,
+    "precision": "bfloat16",
+    "status": "complete"
+  },
+  {
+    "id": "148_bfloat16_r0",
+    "pair_id": "148_precision_pair_r0",
+    "clip_id": "148",
+    "mode": "fixed",
+    "repeat": 0,
+    "precision": "bfloat16",
+    "status": "missing_or_partial"
+  },
+  {
+    "id": "148_float32_r0",
+    "pair_id": "148_precision_pair_r0",
+    "clip_id": "148",
+    "mode": "fixed",
+    "repeat": 0,
+    "precision": "float32",
+    "status": "missing_or_partial"
+  },
+  {
+    "id": "148_float32_r1",
+    "pair_id": "148_precision_pair_r1",
+    "clip_id": "148",
+    "mode": "fixed",
+    "repeat": 1,
+    "precision": "float32",
+    "status": "complete"
+  },
+  {
+    "id": "148_bfloat16_r1",
+    "pair_id": "148_precision_pair_r1",
+    "clip_id": "148",
+    "mode": "fixed",
+    "repeat": 1,
+    "precision": "bfloat16",
+    "status": "complete"
+  }
+]

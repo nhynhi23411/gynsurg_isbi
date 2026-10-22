@@ -1,0 +1,16 @@
+{
+  "registered_arms": 8,
+  "completed_arms": 6,
+  "complete_design": false,
+  "pair_scope_steps": 60,
+  "original_gate_modified": false,
+  "efficacy_promotion": false,
+  "final_test": false,
+  "runtime_intervention": "precision_only_with_both_tf32_flags_disabled_after_engine_init",
+  "per_head_rows": 216,
+  "environment_head_contrasts": 108,
+  "absent_reference_nonzero_contrasts": 4,
+  "all_registered_aggregate_metrics_reconstructed": true,
+  "threshold_changed": false,
+  "evaluator_only": true
+}

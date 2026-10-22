@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "registered_arms": 8,
+  "completed_arms": 6,
+  "complete_design": false,
+  "pair_scope_steps": 60,
+  "per_head_rows": 216,
+  "within_device_identity_verified_pairs": 3,
+  "scientific_precision_contrast_available": true,
+  "original_primary_gate_modified": false,
+  "final_test": false
+}

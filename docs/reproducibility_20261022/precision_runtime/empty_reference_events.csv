@@ -1,0 +1,5 @@
+cell_a,cell_b,clip_id,mode,repeat,step,frame,head,reference_present,predicted_pixels_a,predicted_pixels_b,dice_a,dice_b,delta_dice,delta_iou,paid_query_prefix_identical
+132_bfloat16_r0,132_float32_r0,132,fixed,0,1,99,0,False,0,962,1.0,0.0,-1.0,-1.0,True
+132_bfloat16_r0,132_float32_r0,132,fixed,0,2,99,0,False,0,962,1.0,0.0,-1.0,-1.0,True
+132_bfloat16_r0,132_float32_r0,132,fixed,0,3,99,0,False,0,962,1.0,0.0,-1.0,-1.0,True
+132_bfloat16_r0,132_float32_r0,132,fixed,0,4,99,0,False,0,962,1.0,0.0,-1.0,-1.0,True

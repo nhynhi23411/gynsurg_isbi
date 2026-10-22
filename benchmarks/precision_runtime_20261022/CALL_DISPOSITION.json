@@ -1,0 +1,22 @@
+[
+  {
+    "pair_id": "132_precision_pair_r0",
+    "attempted": true,
+    "status": "complete"
+  },
+  {
+    "pair_id": "132_precision_pair_r1",
+    "attempted": true,
+    "status": "complete"
+  },
+  {
+    "pair_id": "148_precision_pair_r0",
+    "attempted": true,
+    "status": "FileExistsError"
+  },
+  {
+    "pair_id": "148_precision_pair_r1",
+    "attempted": true,
+    "status": "complete"
+  }
+]

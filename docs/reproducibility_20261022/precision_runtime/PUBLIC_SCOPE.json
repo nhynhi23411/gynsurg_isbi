@@ -1,0 +1,9 @@
+{
+  "original_device_identifiers_redacted": true,
+  "anonymized_aliases_preserve_equality": true,
+  "physical_device_identity_verified_privately": true,
+  "public_identity_check_scope": "Released aliases attest to private verification; they do not independently reveal or prove hardware identity.",
+  "private_probability_arrays_released": false,
+  "private_medical_media_released": false,
+  "source_masks_or_weights_released": false
+}

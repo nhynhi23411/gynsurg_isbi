@@ -1,0 +1,162 @@
+{
+  "pairs": [
+    {
+      "id": "132_precision_pair_r0",
+      "clip_id": "132",
+      "repeat": 0,
+      "arm_order": [
+        "bfloat16",
+        "float32"
+      ]
+    },
+    {
+      "id": "132_precision_pair_r1",
+      "clip_id": "132",
+      "repeat": 1,
+      "arm_order": [
+        "float32",
+        "bfloat16"
+      ]
+    },
+    {
+      "id": "148_precision_pair_r0",
+      "clip_id": "148",
+      "repeat": 0,
+      "arm_order": [
+        "bfloat16",
+        "float32"
+      ]
+    },
+    {
+      "id": "148_precision_pair_r1",
+      "clip_id": "148",
+      "repeat": 1,
+      "arm_order": [
+        "float32",
+        "bfloat16"
+      ]
+    }
+  ],
+  "cells": [
+    {
+      "id": "132_bfloat16_r0",
+      "pair_id": "132_precision_pair_r0",
+      "clip_id": "132",
+      "mode": "fixed",
+      "repeat": 0,
+      "precision": "bfloat16"
+    },
+    {
+      "id": "132_float32_r0",
+      "pair_id": "132_precision_pair_r0",
+      "clip_id": "132",
+      "mode": "fixed",
+      "repeat": 0,
+      "precision": "float32"
+    },
+    {
+      "id": "132_float32_r1",
+      "pair_id": "132_precision_pair_r1",
+      "clip_id": "132",
+      "mode": "fixed",
+      "repeat": 1,
+      "precision": "float32"
+    },
+    {
+      "id": "132_bfloat16_r1",
+      "pair_id": "132_precision_pair_r1",
+      "clip_id": "132",
+      "mode": "fixed",
+      "repeat": 1,
+      "precision": "bfloat16"
+    },
+    {
+      "id": "148_bfloat16_r0",
+      "pair_id": "148_precision_pair_r0",
+      "clip_id": "148",
+      "mode": "fixed",
+      "repeat": 0,
+      "precision": "bfloat16"
+    },
+    {
+      "id": "148_float32_r0",
+      "pair_id": "148_precision_pair_r0",
+      "clip_id": "148",
+      "mode": "fixed",
+      "repeat": 0,
+      "precision": "float32"
+    },
+    {
+      "id": "148_float32_r1",
+      "pair_id": "148_precision_pair_r1",
+      "clip_id": "148",
+      "mode": "fixed",
+      "repeat": 1,
+      "precision": "float32"
+    },
+    {
+      "id": "148_bfloat16_r1",
+      "pair_id": "148_precision_pair_r1",
+      "clip_id": "148",
+      "mode": "fixed",
+      "repeat": 1,
+      "precision": "bfloat16"
+    }
+  ],
+  "historical_queries": {
+    "132": [
+      [
+        0,
+        0
+      ],
+      [
+        49,
+        1
+      ],
+      [
+        24,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        49,
+        0
+      ]
+    ],
+    "148": [
+      [
+        24,
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        49,
+        0
+      ],
+      [
+        24,
+        1
+      ]
+    ]
+  },
+  "deadline_utc": "2026-10-22T16:05:46+00:00",
+  "prior_conservative_gpu_hours": 23.51431478492861,
+  "hard_function_timeout_seconds": 300,
+  "startup_allowance_seconds": 30,
+  "new_failure_reserve_gpu_hours": 0.1,
+  "maximum_new_gpu_calls": 4,
+  "initial_planning_gpu_hours": 23.98098145159528,
+  "user_authorization": "User directly requested execution after proposal of a new precision/runtime protocol; 22 October 2026",
+  "validation_executed": false,
+  "final_test": false
+}

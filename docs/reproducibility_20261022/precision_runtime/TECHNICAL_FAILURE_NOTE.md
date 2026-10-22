@@ -1,0 +1,3 @@
+# Technical failure retained
+
+The existing 148 repeat 0 FunctionCall returned FileExistsError at the arm output-directory no-overwrite guard. Read-only inventory shows started.json and private state_0.npy through state_3.npy, but no completed arm execution.json. Thus some inference occurred before the returned guard error; the interruption/re-entry mechanism remains unresolved. No completed arm metrics are inferred from these partial states, no directory is removed or overwritten, and no fifth GPU call was submitted. Both registered arms remain missing or partial. This is operational incompleteness, not a negative efficacy outcome. Original call traceback, metadata inventory and started record remain private under technical_review_148_r0.

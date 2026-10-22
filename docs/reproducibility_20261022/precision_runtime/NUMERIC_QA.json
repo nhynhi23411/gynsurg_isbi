@@ -1,0 +1,27 @@
+{
+  "completed_arms": 6,
+  "registered_arms": 8,
+  "attempted_paired_calls": 4,
+  "pair_scope_steps": 60,
+  "within_device_score_steps": 18,
+  "within_device_max_probability_difference": 1.0,
+  "same_precision_repeat_score_steps": 12,
+  "same_precision_repeat_exact_steps": 2,
+  "empty_reference_events": 4,
+  "conservative_cumulative_gpu_hours": 23.880980270027504,
+  "original_gate_modified": false,
+  "validation_executed": false,
+  "final_test": false,
+  "observed_cross_class_clip132": {
+    "bfloat16": {
+      "max_probability_difference": 1.0,
+      "max_flip_fraction": 0.0094415866483767,
+      "score_steps": 6
+    },
+    "float32": {
+      "max_probability_difference": 0.000732421875,
+      "max_flip_fraction": 1.7146776406035663e-06,
+      "score_steps": 6
+    }
+  }
+}

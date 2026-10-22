@@ -1,0 +1,37 @@
+{
+  "cell": {
+    "id": "148_float32_r1",
+    "pair_id": "148_precision_pair_r1",
+    "clip_id": "148",
+    "mode": "fixed",
+    "repeat": 1,
+    "precision": "float32"
+  },
+  "actual_gpu": "NVIDIA A10",
+  "status": "complete",
+  "input_sha256": "edcaa11d6d1df96b7b9897b76a26c4c203780d6a0b0289980d14208ee634ea83",
+  "procedure_id": "AutoLaparo_video_08",
+  "seed": 20261017,
+  "paid_masks": 5,
+  "worker_seconds": 122.702655888,
+  "sam_precision": "float32",
+  "final_test": false,
+  "primary_historical_gate_modified": false,
+  "environment_after_engine_init": {
+    "tf32_matmul": false,
+    "tf32_cudnn": false,
+    "cudnn_benchmark": false,
+    "cudnn_deterministic": false,
+    "deterministic_algorithms": false
+  },
+  "device_report": "anonymized_device_3",
+  "environment": {
+    "python": "3.11.12 (main, May 21 2025, 23:34:13) [GCC 12.2.0]",
+    "torch": "2.7.1+cu126",
+    "cuda": "12.6",
+    "cudnn": 90501
+  },
+  "files": {
+    "diagnostics.json": "396059ffb10e0447266555ec9166dfd211e3650ad35944c93daefdcfe7cd064f"
+  }
+}

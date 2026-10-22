@@ -1,0 +1,4 @@
+measure,value
+Attempted paired GPU calls,4.0
+Conservative cumulative GPU hours,23.880980270027504
+GPU hour cap,24.0

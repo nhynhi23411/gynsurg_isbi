@@ -1,4 +1,10 @@
-## Latest allocator-observed reproducibility diagnostic
+## Latest bounded precision and runtime diagnostic
+
+Four paired GPU calls were attempted; three completed (six/eight registered arms), and one stopped at a no-overwrite guard with partial states retained. No fifth call was submitted. Independent scalar/hash QA passed for the six complete arms, 60 pair-scope steps and 216 head/frame metrics. Both precision arms disabled TF32 and shared a physical device within each process. On the single cross-class clip 132, maximum A10-versus-A10G probability drift was 1.0 under BF16 and 0.000732 without external BF16 autocast; the latter remained nonidentical and did not ensure higher Dice. Official SAM2 still stores mask memory in BF16 internally, so this is not a pure-FP32-all-tensors run. The original 20/170 failures, negative outcomes and closed validation/final-test gates remain unchanged.
+
+[Scientific report and four figures](docs/reproducibility_20261022/precision_runtime/REPORT.md) · [Unapproved four-page working draft](docs/reproducibility_20261022/precision_runtime/paper_working_draft.pdf). Run `python tools/reproduce_precision_diagnostic.py` for released scalar/hash consistency. Device identifiers are anonymized aliases; private probability arrays, medical media, weights and account launchers are excluded.
+
+## Prior allocator-observed reproducibility diagnostic
 
 All 24 registered additional executions completed (20 A10, four A10G). Independent metadata/hash/scalar QA passed for 43 records, 516 pair-scope steps and 1,548 head/frame scores. All 192 same-class scoring-step pairs were exact; fixed-query cross-class comparisons still differed by up to 0.216309 in probability. This is execution-environment association, not isolated GPU causality or a repair of the original failed gate. The original 20/170 failures remain; validation and final test remain closed. Full report and four figures: [allocator-observed report](docs/reproducibility_20261022/allocator_observed/REPORT.md). Run `python tools/reproduce_allocator_diagnostic.py` to audit the aggregate release. No prediction arrays or medical imagery are published.
 
